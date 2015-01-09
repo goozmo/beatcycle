@@ -1,0 +1,15 @@
+.tp-caption.large_bold_white {
+font-size:58px;
+line-height:60px;
+font-weight:800;
+text-transform:uppercase;
+font-family:"Raleway", sans-serif;
+color:#ffffff;
+text-decoration:none;
+background-color:rgb(0, 0, 0);
+background-color:rgba(0, 0, 0, 0);
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+

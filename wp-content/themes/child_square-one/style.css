@@ -1,0 +1,366 @@
+/*
+Theme Name: Child of Square One
+Template: square-one
+Theme URI: http://tiltedsquare.com/
+Author: Dan Northern
+Author URI: http://tiltedsquare.com
+Description: Description
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+Tags: threaded-comments, translation-ready, child-theme;
+*/
+
+#ujiCountdown{
+  width:auto !important;
+  margin:20px auto 40px auto !important;
+  color:#fff;
+  display: inline-block !important;
+}
+
+
+#header, #the-footer{
+  display:none;
+}
+
+h1.logo-1{
+  margin:20px auto 80px auto;
+}
+
+a{
+  color:#7a9b49 !important;
+}
+
+a:hover{
+  color:#009382 !important;
+}
+
+.sep{
+background-color: #bbb;
+height: 2px;
+position: relative;
+width: 22px;
+display: block;
+margin: 10px auto 20px auto;
+}
+
+.subhead{
+  text-transform: uppercase;
+  font-weight: 400;
+
+}
+
+
+.button{
+  text-transform: uppercase;
+  letter-spacing: .125em;
+  font-weight:300;
+  font-size:.875em;
+  background: #92278f;
+  border:none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+       -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  margin:0 auto;
+  display:table;
+}
+
+.button:hover{
+  background: #F15A29;
+}
+
+   .panel {
+background:none;
+padding: 3em;
+  border:none;
+color:#fff;
+margin:3.5em 0 1.25 0;
+}
+
+h3{
+  font-size:2.75em;
+  font-weight:400;
+text-transform:uppercase;
+color:#fff !important;
+margin-bottom:1.875em !important;
+}
+
+input[type="email"] {
+background-color: #fff;
+border: 1px solid #ccc;
+-webkit-box-shadow: none;
+box-shadow: none;
+color: #4D4D4D;
+display: block;
+font-size: 0.875em;
+margin: 0 0 0 0;
+padding: 0.5em;
+}
+
+body{
+background: url('http://beatcycle.com/wordpress/wp-content/uploads/2014/05/landing-bg.jpg') repeat;
+background-color:transparent !important;
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: top center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+text-align:center;
+}
+
+#teaser-image {
+margin: 50px 0 20px 0;
+}
+
+#teaser-headline{
+  display:none !important;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family:helvetica, arial, sans-serif;
+  letter-spacing:0.115em;
+  color:#4D4D4D;
+}
+
+h1{
+  font-size:2em;
+  color:#92278f;
+  text-transform:uppercase;
+  font-weight:400;
+}
+
+h5{
+  font-size:1.25em;
+  color:#;
+  margin-bottom:.01em
+}
+
+.center{
+margin:0 auto;
+text-align:center;
+}
+
+#coming-soon-container{
+font-size:100%
+}
+
+#coming-soon{
+margin:0 auto 0 auto;
+}
+
+#social-list li{
+  display:inline;
+  font-size:2.25em;
+  margin:0 .5em 0 0;
+}
+
+#social-list li a{
+  color:#4c4c46;
+}
+
+#social-list li a:hover{
+  color:#7a9b49;
+
+}
+
+h1#teaser-headline{
+    font-size:2.5em;
+    color:#fff;
+    text-shadow:none;
+    text-align:center;
+  padding-bottom: 1em;
+  margin-bottom:.75em;
+  display:block;
+text-transform:uppercase;
+}
+
+#teaser-description{
+max-width:800px;
+color:#fff;
+ text-shadow:none;
+font-size:1em;
+ font-weight:400;
+ letter-spacing:.1em;
+text-align:center;
+}
+
+
+/* ==========================================================================
+   Basic Styles
+   ========================================================================== */
+
+body { }
+
+#the-header, #main, #the-sidebar, #the-footer{
+		margin-top: 2.500em;
+}
+
+/* =============================================================================
+   Header
+   ========================================================================== */
+
+#the-header{
+   margin-top:1.25em;
+}
+
+
+/* ==========================================================================
+   Sections
+   ========================================================================== */
+
+#masthead{
+   background:#f8f8f8;
+   height:auto;
+   width:100%;
+   padding:3.750em 1.250em;
+}
+
+/* ==========================================================================
+Forms
+   ========================================================================== */
+
+   .gfield_label{
+    display:none !important;
+   }
+
+.gform_wrapper .top_label input.medium, .gform_wrapper .top_label select.medium{
+  width:100% !important;
+     -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+-webkit-box-shadow: none;
+box-shadow: none;
+border:1px solid #9f9f9f;
+  padding: 20px 5px;
+}
+
+
+
+
+/* ==========================================================================
+   Main Section
+   ========================================================================== */
+
+#main{}
+
+
+/* ==========================================================================
+   Sidebar
+   ========================================================================== */
+
+#the-sidebar {}
+
+
+
+/* ==========================================================================
+   Posts
+   ========================================================================== */
+
+.hentry header { }
+.hentry time { }
+.hentry .byline { }
+.hentry .entry-content {
+   margin:2.500em 0 2.500em 0;
+}
+.hentry footer { }
+.comment-meta{
+   font-size:0.750em;
+}
+
+
+/* ==========================================================================
+   required WordPress Classes
+   ========================================================================== */
+
+.aligncenter {
+   display: block;
+   margin:0 auto;
+}
+
+.alignleft {
+   float: left;
+}
+
+.alignright {
+   float: right;
+}
+
+.wp-caption {}
+.wp-caption-text{}
+.sticky{}
+.gallery-caption{}
+.bypostauthor {}
+
+/* ===================================s=======================================
+   Page Template Custom Code
+   ========================================================================== */
+
+
+
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+#the-footer{
+	margin-bottom: 2.500em;
+}
+
+
+/* ==========================================================================
+   Utility Classes
+   ========================================================================== */
+
+.center{
+	margin:0 auto;
+	text-align: center;
+   }
+
+.horizontal-line{
+	border-bottom:1px solid #c8c8c8;
+}
+
+/* Medium screens */
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+
+
+
+}
+
+
+/* Large screens */
+@media only screen and (min-width: 64em) {  /* min-width 1025px, large screens */
+
+       .row {
+ width: 62em;
+}
+
+h1{
+  font-size:2.75em;
+}
+
+}
+
+/* XLarge screens */
+@media only screen and (min-width: 85em) {  /* min-width 1441px, xlarge screens */
+
+     .row {
+  width: 73em;
+}
+
+
+}
+
+// XXLarge screens
+@media only screen and (min-width: 120.063em) {  /* min-width 1921px, xlarge screens */
+
+   .row {
+     width: 95em;
+   }
+
+}

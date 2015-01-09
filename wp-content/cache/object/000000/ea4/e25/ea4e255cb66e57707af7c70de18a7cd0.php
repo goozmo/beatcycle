@@ -1,0 +1,1 @@
+@æT<?php exit; ?>a:1:{s:7:"content";a:3:{s:12:"is_valid_key";s:1:"1";s:7:"version";s:3:"2.4";s:3:"url";s:179:"http://s3.amazonaws.com/gravityforms/addons/mailchimp/gravityformsmailchimp_2.4.zip?AWSAccessKeyId=1603BBK66770VCSCJSG2&Expires=1410588800&Signature=dj27Yfe29QzrKb4TbfnaIXeb2eU%3D";}}

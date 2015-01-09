@@ -1,0 +1,199 @@
+2.2
+- Added Urban example site
+- Added parameter for icon size for circle or square type in icon with text shortcode
+- Added letter spacing parameter for button shortcode in Qode Options -> Elements
+- Added border parameter for custom font shortcode
+- Added font size parameter for counter digit and counter text in Qode Options -> Elements
+- Added border width parameter for buttons in Qode Options -> Elements
+- Added title separator color in Qode Options -> Header and Footer
+- Added background color transparency option for horizontal progress bar shortcode
+- Added hover background color option for first level menu items in Qode Options -> Header and Footer
+- Added transparency control for Fullscreen Menu
+- Fixed bug with border radius parameter for button in Qode Options -> Elements
+- Fixed minor responsive issues on last responsive stage
+- Fixed bug with "Text Box Background Color" field in Qode Options->Blog
+- Fixed bug with top header background color when fixed header is scrolled
+- Fixed bug with button border color overriding border width from Qode Options -> Elements
+- Fixed bug with Qode Search closing event pushing title when title is a parallax
+- Fixed bug with social icons hover in footer when first color is changed
+- FIxed bug with flexslider initialization on blog masonry
+
+2.1
+- Added Light example site
+- Added parameters for padding for call to action shortcode and call to action widget
+- Added parameter for author font weight for testimonials shortcode
+- Added section in Qode Options -> Header and Footer for header styles
+- Added section in Qode Options -> General Font Options for portfolio categories filter
+- Added background color option for Qode Search
+- Fixed bug with button height when line height option is set in Qode Options -> Elements
+- Fixed bug with breadcrumbs centering
+- Fixed bug with button margins on last two stages in call to action shortcode
+- Fixed bug with tabs navigation margins on smaller devices
+- Fixed bug with title spacings on smalled devices
+- Fixed bug with delimiter color in breadcrumbs when text color is changed in Qode Options
+- Fixed bug with post info links hover color when first color is changed in Qode Options
+
+2.0
+- Added Business example site
+- Added Agency example site
+- Added Estate example site
+- Added font size and font weight options for Pie Chart shortcode in Qode Options -> Elements
+- Added font size and font weight options for Progress Bar shortcode in Qode Options -> Elements
+- Added font size and font weight attribute in Pie Chart shortcode
+- Added font size and font weight attribute in Progress Bar shortcode
+- Added font size, line height and font weight options for predefined large title type in Qode Options -> General Font Options
+- Added font size, line height and font weight options for predefined medium title type in Qode Options -> General Font Options
+- Added font size, line height and font weight options for subtitle in Qode Options -> General Font Options
+- Added font size, line height and font weight options for predefined large type subtitle in Qode Options -> General Font Options
+- Added font size, line height options for Quote and Link blog format and Blockquote shortcode in  Qode Options -> General Font Options
+- Added option in Qode Options->Header for border bottom transparency on header
+- Added options for second level dropdown menu wide type in Qode Options -> Header and Footer
+- Added border hover color  and text hover color options for predifinied white button in Qode Options -> Elements
+- Added background color and background hover options for predifinied white button in Qode Options -> Elements
+- Added border color, background color and border radius options for masonry blog type in Qode Options -> Blog
+- Added letter spacing options for counters in Qode Options -> Elements
+- Added option to choose button size in pricing table shortcode
+- Added full font control for Fullscreen Menu in Qode Options
+- Added "size for side menu/fullscreen menu button" option (normal, medium, large) to Qode Options
+- Added color attribute for filter text in Portfolio List shortcode
+- Added second level menu on Fullscreen Menu
+- Improved mobile menu logic for touch devices
+- Improved Left Menu dropdown opening on touch devices
+- Updated Visual Composer to version 4.1.3.1
+- Fixed Fullscreen Menu active state when ajax page transition is enabled
+- Fixed anchor logic in main menu when Left Menu Area is enabled
+- Fixed bug with variation product margins on single product page
+- Fixed bug with image upload field in Qode Custom Fields
+- Fixed bug with not rendering sidebar for old posts when sidebar is selected in Qode Options -> Blog
+- Fixed bug with contact form fields padding when website field is disabled
+- Fixed bug with transition delay parameter for row shortcode in Chrome
+- Fixed bug with header height option in Qode Options and content position
+- Fixed bug with colorpicker boxes in standard shortcodes popup
+- Fixed bug with border attributes in Icon shortcode
+- Fixed bug with z-index issue with sidebar
+- Fixed shopping cart color in header on mobile screens
+- Fixed lightbox size on small screens
+- Fixed remove icon in WooCommerce Cart page to be on middle
+- Fixed Fullscreen Menu button changing colors
+- Fixed logo positioning on mobile screens
+- Fixed bug with header per page transparency
+- Fixed bug with title area font options in Qode Options -> General Font Options
+- Fixed bug with title centering when header transparency is set in Qode Options
+- Fixed bug with padding parameter on row shortcode
+- Fixed bug with google map on touch devices
+
+1.8
+- Added input background color, border color and text color options in Qode Options -> Elements
+- Added background button color in Qode Options -> Elements
+- Added border and text color for predifinied white button in Qode Options -> Elements
+- Added border, background color and border radius for blog masonry in Qode Options -> Blog
+- Added option in Qode Options for margin bellow title for default template
+- Added option in Qode Options->Header for border bottom on header
+- Added option for button size in pricing table shortcode
+- Fixed bug with single post sidebar option in Qode Options -> Blog
+- Fixed bug with border bottom on title
+- Fixed bug with pie chart color when First Main Color in Qode Options is changed
+- Fixed content menu positioning when left menu area and fixed header are enabled
+- Fixed boxed layout when left menu are is enabled
+
+1.7
+- Added attributes to control border, border width, border color and background color in portfolio shortcode for standard type
+- Added attributes to control border, border width, border color and background color in team shortcode
+- Added border radius option for navigation and text size option in Qode Options for Testimonials
+- Added text text font weight, text transform, counter font weight, color, counter color and separator color options in Qode Options for Counters
+- Added border color, border width. border radius in Qode Options for vertical and boxed Tabs
+- Added attributes to control border, border width, border color in message shortcode
+- Added option to choose button size in call to action shortcode
+- Added borde radius attribute for horizontal and vertical progress bars shortcode
+- Added option for accordion shortcode for accordion mark border radius
+- Added hover text color for Fullscreen Menu in Qode Options
+- Added breadcrumbs
+- Added option for bottom border on title area
+- Added Masonry Full Width Page template
+- Added option for separator between items in dropdown for classic menu
+- Added border color parameter in Call To Action widget
+- Fixed text color changing of Fullscreen Menu
+- Fixed Qode Options > First Main Color bugs
+- Fixed bug with mobile menu hover color option when first color is changed
+- Fixed bug with call to action shortcode border color parameter
+
+1.6
+- Added Fullscreen Menu functionality
+- Added support for WooCommerce 2.1.7
+- Added options in Qode Options for button types
+- Added text transform option for headings in Qode Options
+- Added background color attribute in Team shortcode
+- Updated Visual Composer to version 4.1.2
+- Fixed separator with text shortcode
+- Fixed Qode Shortcodes Button in Visual Composer shortcodes
+- Fixed bug with menu on category pages
+- Fixed problem with mixing tags on Posts and Portfolio
+- Fixed bug with Qode Slider graphic position on smaller devices
+- Fixed bug with process shortcode circle background and border color on hover for first color change
+- Fixed bug with footer text widget area multiple line text
+- Fixed bug with content margin on iPad when footer uncovering options is selected
+
+1.5
+- Added Left Menu Area transparency option, global or per page
+- Added Left Menu Area background color option, global or per page
+- Added Left Menu Area background image option, global or per page
+- Added Left Menu Area dark/light color scheme changing when transparency is on
+- Added options for separator small type in Qode Options
+- Improved Left Menu slide down easing of sub levels
+- Updated documentation
+- Updated Qode Slider shortcode example sliders list
+- Fixed Qode Slider positioning when parallax effect is off and left menu is turned on
+- Fixed Qode Slider left moving effect when right side menu is opened and boxed version is turned on
+- Fixed menu items overlap when boxed layout is enabled
+- Fixed Qode Shortcodes button
+- Fixed bug with Cover Boxes shortcode button element
+
+1.4
+- Added Left Menu Area feature and Qode Options section
+- Added Left Menu Area widget area to Appearance > Widgets
+- Added anchor parameter to Qode Slider shortcode
+- Added Gravity Forms CSS
+- Updated po & mo files
+- Improved anchor functionality logic to take header size changes
+- Fixed WP 3.9 Qode Shortcodes bug
+- Fixed WP 3.9 Qode Options image browser field bug
+- Fixed font-family option for title and text in Qode Slider
+- Fixed content behind Qode Slider problem on default page template
+- Fixed bug with fixed header style options
+- Fixed bug with Qode Slider header styles affecting scrolled fixed header
+- Fixed bug with Section Title shortcode in Qode Shortcodes list
+- Fixed bug with ajax page transitions and target=_blank on links
+- Fixed "no animation" option for posts and portfolios
+- Fixed bug with Qode Custom fields saving zero values
+- Fixed bug with header background color options
+- Fixed bug with saving Qode SEO fields
+- Fixed bug with testimonials shortcode navigation parameter
+
+1.3
+- Added option to Qode Slider to turn parallax effect on/off
+- Improved responsiveness of cover boxes shortcode
+- Updated Visual Composer to version 4.0.5
+- Fixed bug with footer text color options
+- Fixed bug with slide's content position on fixed height sliders
+- Fixed background color in Mobile menu style option
+- Fixed horizontal center option in tabs shortcode
+
+1.2
+- Added tags support for portfolio post type
+- Updated po & mo files
+- Fixed lightbox popup when page transitions are not enabled
+- Fixed lightbox popup overlay in Chrome
+- Fixed background color transparency in social icon shortcode
+- Fixed shadow on fixed header when scrolled
+- Fixed style attribute for single image shortcode in Visual Composer
+- Fixed blog masonry load more with page transitions
+
+1.1
+- Added Contact Form 7 plugin integration
+- Updated Visual Composer to version 4.0.4 (from this version our theme is compatible only with VC 4+)
+- Improved responsiveness of Qode Slider on last two stages
+
+1.0.1
+- Updated demo content
+- Updated style for prettyPhoto popup
+- Fixed bug with portfolio gallery hover

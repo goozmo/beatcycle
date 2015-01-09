@@ -1,0 +1,5730 @@
+10-01-2014 @ 17:18:49 - Processing order #35107
+10-01-2014 @ 17:18:49 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.117.196
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 082016
+    [CVV2] => ****
+    [EMAIL] => juliecberliner@gmail.com
+    [FIRSTNAME] => Julie
+    [LASTNAME] => Berliner
+    [STREET] => 3830 NEWPORT LN 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-01-2014 @ 17:18:52 - Response TIMESTAMP=2014%2d10%2d01T23%3a18%3a52Z&CORRELATIONID=5b257479dd68b&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=5DU67762RF6785705
+10-01-2014 @ 17:18:52 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-01T23:18:52Z
+    [CORRELATIONID] => 5b257479dd68b
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 5DU67762RF6785705
+)
+
+10-02-2014 @ 09:34:16 - Processing order #35121
+10-02-2014 @ 09:34:16 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.70.204.197
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => erikapeterson21@gmail.com
+    [FIRSTNAME] => erika
+    [LASTNAME] => peterson
+    [STREET] => 683 Rinpoche Ln. 
+    [CITY] => Oregon
+    [STATE] => WI
+    [ZIP] => 53575
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-02-2014 @ 09:34:19 - Response TIMESTAMP=2014%2d10%2d02T15%3a34%3a19Z&CORRELATIONID=b91f48dc97d51&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=0KA22348FM252305A
+10-02-2014 @ 09:34:19 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-02T15:34:19Z
+    [CORRELATIONID] => b91f48dc97d51
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 0KA22348FM252305A
+)
+
+10-02-2014 @ 11:41:56 - Processing order #35126
+10-02-2014 @ 11:41:56 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.160.228
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 052016
+    [CVV2] => ****
+    [EMAIL] => kirsten.brown@colorado.edu
+    [FIRSTNAME] => Kirsten
+    [LASTNAME] => brown
+    [STREET] => 1101 university avenue 203
+    [CITY] => boulder
+    [STATE] => CO
+    [ZIP] => 80302
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-02-2014 @ 11:41:59 - Response TIMESTAMP=2014%2d10%2d02T17%3a41%3a59Z&CORRELATIONID=48c645eea2c4e&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=N&CVV2MATCH=M&TRANSACTIONID=6A597529H79342814
+10-02-2014 @ 11:41:59 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-02T17:41:59Z
+    [CORRELATIONID] => 48c645eea2c4e
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => N
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6A597529H79342814
+)
+
+10-03-2014 @ 18:15:49 - Processing order #38947
+10-03-2014 @ 18:15:49 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 73.34.216.40
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 022015
+    [CVV2] => ****
+    [EMAIL] => emcohn7@yahoo.com
+    [FIRSTNAME] => Emily
+    [LASTNAME] => Beaumont
+    [STREET] => 401 Interlocken Blvd #6505
+    [CITY] => Broomfield
+    [STATE] => CO
+    [ZIP] => 80021
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-03-2014 @ 18:15:52 - Response TIMESTAMP=2014%2d10%2d04T00%3a15%3a52Z&CORRELATIONID=900f6314627a&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=27N46129JU9096538
+10-03-2014 @ 18:15:52 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-04T00:15:52Z
+    [CORRELATIONID] => 900f6314627a
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 27N46129JU9096538
+)
+
+10-04-2014 @ 08:41:25 - Processing order #38951
+10-04-2014 @ 08:41:25 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.70.204.197
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => erikapeterson21@gmail.com
+    [FIRSTNAME] => erika
+    [LASTNAME] => peterson
+    [STREET] => 683 Rinpoche Ln. 
+    [CITY] => Oregon
+    [STATE] => WI
+    [ZIP] => 53575
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-04-2014 @ 08:41:28 - Response TIMESTAMP=2014%2d10%2d04T14%3a41%3a28Z&CORRELATIONID=46f78d68d20a1&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=08V55836BS211724J
+10-04-2014 @ 08:41:28 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-04T14:41:28Z
+    [CORRELATIONID] => 46f78d68d20a1
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 08V55836BS211724J
+)
+
+10-06-2014 @ 11:53:50 - Processing order #39024
+10-06-2014 @ 11:53:50 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 50.204.158.2
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => katemilne13@gmail.com
+    [FIRSTNAME] => Katie
+    [LASTNAME] => Milne
+    [STREET] => 1375 Alpine Avenue 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-06-2014 @ 11:53:54 - Response TIMESTAMP=2014%2d10%2d06T17%3a53%3a54Z&CORRELATIONID=c8e22538d4588&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=3G776958GE871093Y
+10-06-2014 @ 11:53:54 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-06T17:53:54Z
+    [CORRELATIONID] => c8e22538d4588
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 3G776958GE871093Y
+)
+
+10-06-2014 @ 16:06:28 - Processing order #39041
+10-06-2014 @ 16:06:28 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.123.47
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 052017
+    [CVV2] => ****
+    [EMAIL] => shblake75@gmail.com
+    [FIRSTNAME] => Stephanie
+    [LASTNAME] => Blake
+    [STREET] => 3733 Wonderland Hill Avenue 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-06-2014 @ 16:06:32 - Response TIMESTAMP=2014%2d10%2d06T22%3a06%3a32Z&CORRELATIONID=7cbbc7983e6fc&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=21322514A10674944
+10-06-2014 @ 16:06:32 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-06T22:06:32Z
+    [CORRELATIONID] => 7cbbc7983e6fc
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 21322514A10674944
+)
+
+10-06-2014 @ 23:00:12 - Processing order #39062
+10-06-2014 @ 23:00:12 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.166.175.228
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 112016
+    [CVV2] => ****
+    [EMAIL] => chloe.keusder@colorado.edu
+    [FIRSTNAME] => Chloe
+    [LASTNAME] => Keusder
+    [STREET] => 31941 Paseo Sagrado 
+    [CITY] => San Juan Capistrano
+    [STATE] => CA
+    [ZIP] => 92675
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-06-2014 @ 23:00:17 - Response TIMESTAMP=2014%2d10%2d07T05%3a00%3a16Z&CORRELATIONID=abe56ccb4851&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=7SG28598CK549244D
+10-06-2014 @ 23:00:17 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-07T05:00:16Z
+    [CORRELATIONID] => abe56ccb4851
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 7SG28598CK549244D
+)
+
+10-07-2014 @ 08:50:48 - Processing order #39074
+10-07-2014 @ 08:50:48 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 166.170.42.43
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => susan@lvh3.net
+    [FIRSTNAME] => Susan
+    [LASTNAME] => Hanson
+    [STREET] => 1750 30th St #229 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80301
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-07-2014 @ 08:50:51 - Response TIMESTAMP=2014%2d10%2d07T14%3a50%3a51Z&CORRELATIONID=89d2339d53fba&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=6BM53230J88207224
+10-07-2014 @ 08:50:51 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-07T14:50:51Z
+    [CORRELATIONID] => 89d2339d53fba
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6BM53230J88207224
+)
+
+10-07-2014 @ 11:39:55 - Processing order #39080
+10-07-2014 @ 11:39:55 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.176.56.8
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 032017
+    [CVV2] => ****
+    [EMAIL] => kendra.lee7@gmail.com
+    [FIRSTNAME] => kendra
+    [LASTNAME] => lee
+    [STREET] => 2892 shadow creek drive 211
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80303
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-07-2014 @ 11:39:58 - Response TIMESTAMP=2014%2d10%2d07T17%3a39%3a58Z&CORRELATIONID=932d36d907bc&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=7V242662DF0021508
+10-07-2014 @ 11:39:58 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-07T17:39:58Z
+    [CORRELATIONID] => 932d36d907bc
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 7V242662DF0021508
+)
+
+10-07-2014 @ 19:58:47 - Processing order #39105
+10-07-2014 @ 19:58:47 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.117.196
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 082016
+    [CVV2] => ****
+    [EMAIL] => juliecberliner@gmail.com
+    [FIRSTNAME] => Julie
+    [LASTNAME] => Berliner
+    [STREET] => 3830 NEWPORT LN 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-07-2014 @ 19:58:50 - Response TIMESTAMP=2014%2d10%2d08T01%3a58%3a50Z&CORRELATIONID=2f728df0a9139&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=9KE92260VK659711M
+10-07-2014 @ 19:58:50 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-08T01:58:50Z
+    [CORRELATIONID] => 2f728df0a9139
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9KE92260VK659711M
+)
+
+10-07-2014 @ 20:34:57 - Processing order #39107
+10-07-2014 @ 20:34:57 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.200.7
+    [AMT] => 100
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => lmonet@aol.com
+    [FIRSTNAME] => Lisa
+    [LASTNAME] => Wayne
+    [STREET] => 1775 Sherman Street Suite 1650 
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80203
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-07-2014 @ 20:34:57 - Response TIMESTAMP=2014%2d10%2d08T02%3a34%3a57Z&CORRELATIONID=9e23fabc67e4e&ACK=Failure&VERSION=59%2e0&BUILD=13080767&L_ERRORCODE0=10527&L_SHORTMESSAGE0=Invalid%20Data&L_LONGMESSAGE0=This%20transaction%20cannot%20be%20processed%2e%20Please%20enter%20a%20valid%20credit%20card%20number%20and%20type%2e&L_SEVERITYCODE0=Error&AMT=100%2e00&CURRENCYCODE=USD
+10-07-2014 @ 20:34:57 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-08T02:34:57Z
+    [CORRELATIONID] => 9e23fabc67e4e
+    [ACK] => Failure
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [L_ERRORCODE0] => 10527
+    [L_SHORTMESSAGE0] => Invalid Data
+    [L_LONGMESSAGE0] => This transaction cannot be processed. Please enter a valid credit card number and type.
+    [L_SEVERITYCODE0] => Error
+    [AMT] => 100.00
+    [CURRENCYCODE] => USD
+)
+
+10-07-2014 @ 20:36:05 - Processing order #39107
+10-07-2014 @ 20:36:05 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.200.7
+    [AMT] => 100
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => lmonet@aol.com
+    [FIRSTNAME] => Lisa
+    [LASTNAME] => Wayne
+    [STREET] => 1775 Sherman Street Suite 1650 
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80203
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-07-2014 @ 20:36:08 - Response TIMESTAMP=2014%2d10%2d08T02%3a36%3a07Z&CORRELATIONID=aa7d5769503dc&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=100%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=2KH219097A2841614
+10-07-2014 @ 20:36:08 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-08T02:36:07Z
+    [CORRELATIONID] => aa7d5769503dc
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 100.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2KH219097A2841614
+)
+
+10-07-2014 @ 21:47:50 - Processing order #39113
+10-07-2014 @ 21:47:50 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 216.75.212.6
+    [AMT] => 320
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 022018
+    [CVV2] => ****
+    [EMAIL] => jenna.monaster@gmail.com
+    [FIRSTNAME] => Jenna
+    [LASTNAME] => Monaster
+    [STREET] => 646 Quince Cir 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-07-2014 @ 21:47:53 - Response TIMESTAMP=2014%2d10%2d08T03%3a47%3a53Z&CORRELATIONID=29ba38ff304&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=320%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=2UK39588M0800160A
+10-07-2014 @ 21:47:53 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-08T03:47:53Z
+    [CORRELATIONID] => 29ba38ff304
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 320.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2UK39588M0800160A
+)
+
+10-08-2014 @ 10:06:39 - Processing order #39128
+10-08-2014 @ 10:06:39 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.70.204.197
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => erikapeterson21@gmail.com
+    [FIRSTNAME] => erika
+    [LASTNAME] => peterson
+    [STREET] => 683 Rinpoche Ln. 
+    [CITY] => Oregon
+    [STATE] => WI
+    [ZIP] => 53575
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-08-2014 @ 10:06:43 - Response TIMESTAMP=2014%2d10%2d08T16%3a06%3a43Z&CORRELATIONID=dc76423fad919&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=0X3533438T3844812
+10-08-2014 @ 10:06:43 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-08T16:06:43Z
+    [CORRELATIONID] => dc76423fad919
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 0X3533438T3844812
+)
+
+10-08-2014 @ 13:48:15 - Processing order #39133
+10-08-2014 @ 13:48:15 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.166.175.228
+    [AMT] => 300
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 052016
+    [CVV2] => ****
+    [EMAIL] => chloe.keusder@colorado.edu
+    [FIRSTNAME] => Danusia
+    [LASTNAME] => Keusder
+    [STREET] => 3194 Airport Loop United States
+    [CITY] => Costa Mesa
+    [STATE] => CA
+    [ZIP] => 92626
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-08-2014 @ 13:48:23 - Response TIMESTAMP=2014%2d10%2d08T19%3a48%3a23Z&CORRELATIONID=e98c4b0ccad60&ACK=Success&VERSION=59%2e0&BUILD=13080767&AMT=300%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=2M494122J66489736
+10-08-2014 @ 13:48:23 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-08T19:48:23Z
+    [CORRELATIONID] => e98c4b0ccad60
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13080767
+    [AMT] => 300.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2M494122J66489736
+)
+
+10-09-2014 @ 11:25:26 - Processing order #39148
+10-09-2014 @ 11:25:26 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 12.216.31.162
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => holly.traut@gmail.com
+    [FIRSTNAME] => Holly
+    [LASTNAME] => Traut
+    [STREET] => 2900 Wyandot St Unit 301
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80211
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-09-2014 @ 11:25:29 - Response TIMESTAMP=2014%2d10%2d09T17%3a25%3a29Z&CORRELATIONID=3c4d99fa6e27f&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=3HT95552GS7002130
+10-09-2014 @ 11:25:29 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-09T17:25:29Z
+    [CORRELATIONID] => 3c4d99fa6e27f
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 3HT95552GS7002130
+)
+
+10-09-2014 @ 20:47:12 - Processing order #39163
+10-09-2014 @ 20:47:12 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 97.49.6.98
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => linds.e.wells@gmail.com
+    [FIRSTNAME] => Lindsay
+    [LASTNAME] => DuRussel
+    [STREET] => 1186 N Franklin Ave 
+    [CITY] => Louisville
+    [STATE] => CO
+    [ZIP] => 80027
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-09-2014 @ 20:47:13 - Response TIMESTAMP=2014%2d10%2d10T02%3a47%3a13Z&CORRELATIONID=8fbb802f4d19&ACK=Failure&VERSION=59%2e0&BUILD=000000&L_ERRORCODE0=10544&L_SHORTMESSAGE0=Transaction%20cannot%20be%20processed%2e&L_LONGMESSAGE0=Please%20use%20a%20different%20payment%20card%2e&L_SEVERITYCODE0=Error&AMT=20%2e00&CURRENCYCODE=USD
+10-09-2014 @ 20:47:13 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-10T02:47:13Z
+    [CORRELATIONID] => 8fbb802f4d19
+    [ACK] => Failure
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [L_ERRORCODE0] => 10544
+    [L_SHORTMESSAGE0] => Transaction cannot be processed.
+    [L_LONGMESSAGE0] => Please use a different payment card.
+    [L_SEVERITYCODE0] => Error
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+)
+
+10-09-2014 @ 20:47:44 - Processing order #39163
+10-09-2014 @ 20:47:44 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 97.49.6.98
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => linds.e.wells@gmail.com
+    [FIRSTNAME] => Lindsay
+    [LASTNAME] => DuRussel
+    [STREET] => 1186 N Franklin Ave 
+    [CITY] => Louisville
+    [STATE] => CO
+    [ZIP] => 80027
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-09-2014 @ 20:47:45 - Response TIMESTAMP=2014%2d10%2d10T02%3a47%3a45Z&CORRELATIONID=39174acd94c9a&ACK=Failure&VERSION=59%2e0&BUILD=000000&L_ERRORCODE0=10544&L_SHORTMESSAGE0=Transaction%20cannot%20be%20processed%2e&L_LONGMESSAGE0=Please%20use%20a%20different%20payment%20card%2e&L_SEVERITYCODE0=Error&AMT=20%2e00&CURRENCYCODE=USD
+10-09-2014 @ 20:47:45 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-10T02:47:45Z
+    [CORRELATIONID] => 39174acd94c9a
+    [ACK] => Failure
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [L_ERRORCODE0] => 10544
+    [L_SHORTMESSAGE0] => Transaction cannot be processed.
+    [L_LONGMESSAGE0] => Please use a different payment card.
+    [L_SEVERITYCODE0] => Error
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+)
+
+10-09-2014 @ 20:49:16 - Processing order #39163
+10-09-2014 @ 20:49:16 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 97.49.6.98
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 042015
+    [CVV2] => ****
+    [EMAIL] => linds.e.wells@gmail.com
+    [FIRSTNAME] => Lindsay
+    [LASTNAME] => DuRussel
+    [STREET] => 1186 N Franklin Ave 
+    [CITY] => Louisville
+    [STATE] => CO
+    [ZIP] => 80027
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-09-2014 @ 20:49:20 - Response TIMESTAMP=2014%2d10%2d10T02%3a49%3a20Z&CORRELATIONID=e3d746a3e0e3&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=94Y26216NJ585810S
+10-09-2014 @ 20:49:20 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-10T02:49:20Z
+    [CORRELATIONID] => e3d746a3e0e3
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 94Y26216NJ585810S
+)
+
+10-10-2014 @ 10:31:57 - Processing order #39168
+10-10-2014 @ 10:31:57 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 24.9.79.16
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 082016
+    [CVV2] => ****
+    [EMAIL] => nlederman1994@gmail.com
+    [FIRSTNAME] => Nicole
+    [LASTNAME] => Lederman
+    [STREET] => 300 East 56th street APT. 27J
+    [CITY] => New York
+    [STATE] => NY
+    [ZIP] => 10022
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-10-2014 @ 10:31:59 - Response TIMESTAMP=2014%2d10%2d10T16%3a31%3a59Z&CORRELATIONID=c8c77e7a85189&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=9ED151825D4605230
+10-10-2014 @ 10:31:59 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-10T16:31:59Z
+    [CORRELATIONID] => c8c77e7a85189
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9ED151825D4605230
+)
+
+10-10-2014 @ 20:08:07 - Processing order #39179
+10-10-2014 @ 20:08:07 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.70.204.197
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => erikapeterson21@gmail.com
+    [FIRSTNAME] => erika
+    [LASTNAME] => peterson
+    [STREET] => 683 Rinpoche Ln. 
+    [CITY] => Oregon
+    [STATE] => WI
+    [ZIP] => 53575
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-10-2014 @ 20:08:10 - Response TIMESTAMP=2014%2d10%2d11T02%3a08%3a10Z&CORRELATIONID=e9cb67a5e22bb&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=1JL1290117137982V
+10-10-2014 @ 20:08:10 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-11T02:08:10Z
+    [CORRELATIONID] => e9cb67a5e22bb
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 1JL1290117137982V
+)
+
+10-13-2014 @ 10:39:39 - Processing order #39489
+10-13-2014 @ 10:39:39 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 50.204.158.2
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 102017
+    [CVV2] => ****
+    [EMAIL] => pgberliner@gmail.com
+    [FIRSTNAME] => Paul
+    [LASTNAME] => Berliner
+    [STREET] => 3830 Newport Ln 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-13-2014 @ 10:39:43 - Response TIMESTAMP=2014%2d10%2d13T16%3a39%3a42Z&CORRELATIONID=b08fc4adddae6&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=6U609699YM349054V
+10-13-2014 @ 10:39:43 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-13T16:39:42Z
+    [CORRELATIONID] => b08fc4adddae6
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6U609699YM349054V
+)
+
+10-13-2014 @ 11:52:33 - Processing order #39492
+10-13-2014 @ 11:52:33 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 174.29.187.148
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => wynter.finley@colorado.edu
+    [FIRSTNAME] => wynter
+    [LASTNAME] => finley
+    [STREET] => 6615 east pacific coast highway 260
+    [CITY] => long beach
+    [STATE] => CA
+    [ZIP] => 90803
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-13-2014 @ 11:52:36 - Response TIMESTAMP=2014%2d10%2d13T17%3a52%3a36Z&CORRELATIONID=6e5402f298d4a&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=N&CVV2MATCH=M&TRANSACTIONID=17399013N97564420
+10-13-2014 @ 11:52:36 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-13T17:52:36Z
+    [CORRELATIONID] => 6e5402f298d4a
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => N
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 17399013N97564420
+)
+
+10-14-2014 @ 14:45:12 - Processing order #39879
+10-14-2014 @ 14:45:12 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 12.216.31.162
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => holly.traut@gmail.com
+    [FIRSTNAME] => Holly
+    [LASTNAME] => Traut
+    [STREET] => 2900 Wyandot St Unit 301
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80211
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-14-2014 @ 14:45:15 - Response TIMESTAMP=2014%2d10%2d14T20%3a45%3a15Z&CORRELATIONID=df2814fa66f03&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=6Y81961099612002J
+10-14-2014 @ 14:45:15 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-14T20:45:15Z
+    [CORRELATIONID] => df2814fa66f03
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6Y81961099612002J
+)
+
+10-15-2014 @ 15:26:48 - Processing order #39912
+10-15-2014 @ 15:26:48 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 50.250.143.235
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => gabriellanichols@cox.net
+    [FIRSTNAME] => gabriella
+    [LASTNAME] => nichols
+    [STREET] => 17 argos 
+    [CITY] => laguna niguel
+    [STATE] => CA
+    [ZIP] => 92677
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-15-2014 @ 15:26:51 - Response TIMESTAMP=2014%2d10%2d15T21%3a26%3a51Z&CORRELATIONID=45051b1b4c25&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=09C21814AW293950Y
+10-15-2014 @ 15:26:51 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-15T21:26:51Z
+    [CORRELATIONID] => 45051b1b4c25
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 09C21814AW293950Y
+)
+
+10-15-2014 @ 17:47:53 - Processing order #39918
+10-15-2014 @ 17:47:53 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.116.8
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => skastrong11@msn.com
+    [FIRSTNAME] => Chris
+    [LASTNAME] => Armstrong
+    [STREET] => 2138 Walnut St 
+    [CITY] => Boulder, CO 80302
+    [STATE] => CO
+    [ZIP] => 80302
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-15-2014 @ 17:47:56 - Response TIMESTAMP=2014%2d10%2d15T23%3a47%3a56Z&CORRELATIONID=d6abb1286c773&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=8BR504005Y6380730
+10-15-2014 @ 17:47:56 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-15T23:47:56Z
+    [CORRELATIONID] => d6abb1286c773
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 8BR504005Y6380730
+)
+
+10-16-2014 @ 09:58:30 - Processing order #39922
+10-16-2014 @ 09:58:30 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.167.65
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072017
+    [CVV2] => ****
+    [EMAIL] => gabriellasemet@mac.com
+    [FIRSTNAME] => Gabriella
+    [LASTNAME] => Semet
+    [STREET] => 147 Summit Ave 
+    [CITY] => Pompton Lakes
+    [STATE] => NJ
+    [ZIP] => 07442
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-16-2014 @ 09:58:31 - Response TIMESTAMP=2014%2d10%2d16T15%3a58%3a31Z&CORRELATIONID=de0872559256&ACK=Failure&VERSION=59%2e0&BUILD=000000&L_ERRORCODE0=10527&L_SHORTMESSAGE0=Invalid%20Data&L_LONGMESSAGE0=This%20transaction%20cannot%20be%20processed%2e%20Please%20enter%20a%20valid%20credit%20card%20number%20and%20type%2e&L_SEVERITYCODE0=Error&AMT=20%2e00&CURRENCYCODE=USD
+10-16-2014 @ 09:58:31 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-16T15:58:31Z
+    [CORRELATIONID] => de0872559256
+    [ACK] => Failure
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [L_ERRORCODE0] => 10527
+    [L_SHORTMESSAGE0] => Invalid Data
+    [L_LONGMESSAGE0] => This transaction cannot be processed. Please enter a valid credit card number and type.
+    [L_SEVERITYCODE0] => Error
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+)
+
+10-16-2014 @ 09:58:47 - Processing order #39922
+10-16-2014 @ 09:58:47 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.167.65
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072017
+    [CVV2] => ****
+    [EMAIL] => gabriellasemet@mac.com
+    [FIRSTNAME] => Gabriella
+    [LASTNAME] => Semet
+    [STREET] => 147 Summit Ave 
+    [CITY] => Pompton Lakes
+    [STATE] => NJ
+    [ZIP] => 07442
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-16-2014 @ 09:58:47 - Response TIMESTAMP=2014%2d10%2d16T15%3a58%3a47Z&CORRELATIONID=4020d325c8b52&ACK=Failure&VERSION=59%2e0&BUILD=000000&L_ERRORCODE0=10527&L_SHORTMESSAGE0=Invalid%20Data&L_LONGMESSAGE0=This%20transaction%20cannot%20be%20processed%2e%20Please%20enter%20a%20valid%20credit%20card%20number%20and%20type%2e&L_SEVERITYCODE0=Error&AMT=20%2e00&CURRENCYCODE=USD
+10-16-2014 @ 09:58:47 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-16T15:58:47Z
+    [CORRELATIONID] => 4020d325c8b52
+    [ACK] => Failure
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [L_ERRORCODE0] => 10527
+    [L_SHORTMESSAGE0] => Invalid Data
+    [L_LONGMESSAGE0] => This transaction cannot be processed. Please enter a valid credit card number and type.
+    [L_SEVERITYCODE0] => Error
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+)
+
+10-16-2014 @ 09:59:18 - Processing order #39922
+10-16-2014 @ 09:59:18 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.167.65
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072017
+    [CVV2] => ****
+    [EMAIL] => gabriellasemet@mac.com
+    [FIRSTNAME] => Gabriella
+    [LASTNAME] => Semet
+    [STREET] => 147 Summit Ave 
+    [CITY] => Pompton Lakes
+    [STATE] => NJ
+    [ZIP] => 07442
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-16-2014 @ 09:59:18 - Response TIMESTAMP=2014%2d10%2d16T15%3a59%3a18Z&CORRELATIONID=45b412e6bddc2&ACK=Failure&VERSION=59%2e0&BUILD=000000&L_ERRORCODE0=10527&L_SHORTMESSAGE0=Invalid%20Data&L_LONGMESSAGE0=This%20transaction%20cannot%20be%20processed%2e%20Please%20enter%20a%20valid%20credit%20card%20number%20and%20type%2e&L_SEVERITYCODE0=Error&AMT=20%2e00&CURRENCYCODE=USD
+10-16-2014 @ 09:59:18 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-16T15:59:18Z
+    [CORRELATIONID] => 45b412e6bddc2
+    [ACK] => Failure
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [L_ERRORCODE0] => 10527
+    [L_SHORTMESSAGE0] => Invalid Data
+    [L_LONGMESSAGE0] => This transaction cannot be processed. Please enter a valid credit card number and type.
+    [L_SEVERITYCODE0] => Error
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+)
+
+10-16-2014 @ 10:00:09 - Processing order #39922
+10-16-2014 @ 10:00:09 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.167.65
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072017
+    [CVV2] => ****
+    [EMAIL] => gabriellasemet@mac.com
+    [FIRSTNAME] => Gabriella
+    [LASTNAME] => Semet
+    [STREET] => 147 Summit Ave 
+    [CITY] => Pompton Lakes
+    [STATE] => NJ
+    [ZIP] => 07442
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-16-2014 @ 10:00:12 - Response TIMESTAMP=2014%2d10%2d16T16%3a00%3a12Z&CORRELATIONID=8afbc1ee66d37&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=0B274905SE1183244
+10-16-2014 @ 10:00:12 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-16T16:00:12Z
+    [CORRELATIONID] => 8afbc1ee66d37
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 0B274905SE1183244
+)
+
+10-17-2014 @ 20:25:24 - Processing order #39986
+10-17-2014 @ 20:25:24 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 70.196.197.166
+    [AMT] => 40
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 032017
+    [CVV2] => ****
+    [EMAIL] => libstermama@yahoo.com
+    [FIRSTNAME] => libby
+    [LASTNAME] => crouch
+    [STREET] => 7143 old post road 
+    [CITY] => boulder
+    [STATE] => CO
+    [ZIP] => 80301
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-17-2014 @ 20:25:28 - Response TIMESTAMP=2014%2d10%2d18T02%3a25%3a28Z&CORRELATIONID=811002843147b&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=40%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=9MA63142MF570863D
+10-17-2014 @ 20:25:28 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-18T02:25:28Z
+    [CORRELATIONID] => 811002843147b
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 40.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9MA63142MF570863D
+)
+
+10-19-2014 @ 14:42:34 - Processing order #40004
+10-19-2014 @ 14:42:34 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.70.205.146
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072017
+    [CVV2] => ****
+    [EMAIL] => amy@littleyogastudio.com
+    [FIRSTNAME] => amy
+    [LASTNAME] => benton
+    [STREET] => 4312 black cherry ct 
+    [CITY] => boulder
+    [STATE] => CO
+    [ZIP] => 80301
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-19-2014 @ 14:42:38 - Response TIMESTAMP=2014%2d10%2d19T20%3a42%3a37Z&CORRELATIONID=a6a36d7478b&ACK=Success&VERSION=59%2e0&BUILD=000000&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Z&CVV2MATCH=M&TRANSACTIONID=9JP628115K5163613
+10-19-2014 @ 14:42:38 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-19T20:42:37Z
+    [CORRELATIONID] => a6a36d7478b
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 000000
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Z
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9JP628115K5163613
+)
+
+10-20-2014 @ 10:17:00 - Processing order #40300
+10-20-2014 @ 10:17:00 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.113.49
+    [AMT] => 220
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 032017
+    [CVV2] => ****
+    [EMAIL] => libstermama@yahoo.com
+    [FIRSTNAME] => libby
+    [LASTNAME] => crouch
+    [STREET] => 7143 old post road 
+    [CITY] => boulder
+    [STATE] => CO
+    [ZIP] => 80301
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 10:17:04 - Response TIMESTAMP=2014%2d10%2d20T16%3a17%3a04Z&CORRELATIONID=ec6302622d634&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=220%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=7E413171Y47896123
+10-20-2014 @ 10:17:04 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-20T16:17:04Z
+    [CORRELATIONID] => ec6302622d634
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 220.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 7E413171Y47896123
+)
+
+10-20-2014 @ 12:02:27 - Processing order #40304
+10-20-2014 @ 12:02:27 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 50.203.81.58
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 082016
+    [CVV2] => ****
+    [EMAIL] => haley_brockmeier@yahoo.com
+    [FIRSTNAME] => Haley
+    [LASTNAME] => Brockmeier
+    [STREET] => 2500 17th Street #404 United States
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80211
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 12:02:30 - Response TIMESTAMP=2014%2d10%2d20T18%3a02%3a30Z&CORRELATIONID=dc0471bd7128e&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=N&CVV2MATCH=M&TRANSACTIONID=36K52217B43171115
+10-20-2014 @ 12:02:30 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-20T18:02:30Z
+    [CORRELATIONID] => dc0471bd7128e
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => N
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 36K52217B43171115
+)
+
+10-20-2014 @ 12:15:57 - Processing order #40306
+10-20-2014 @ 12:15:57 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 70.196.201.166
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072017
+    [CVV2] => ****
+    [EMAIL] => gabriellasemet@mac.com
+    [FIRSTNAME] => Gabriella
+    [LASTNAME] => Semet
+    [STREET] => 147 Summit Ave 
+    [CITY] => Pompton Lakes
+    [STATE] => NJ
+    [ZIP] => 07442
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 12:16:00 - Response TIMESTAMP=2014%2d10%2d20T18%3a16%3a00Z&CORRELATIONID=492ff5cec3660&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=8U381636P12671333
+10-20-2014 @ 12:16:00 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-20T18:16:00Z
+    [CORRELATIONID] => 492ff5cec3660
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 8U381636P12671333
+)
+
+10-20-2014 @ 13:59:41 - Processing order #40308
+10-20-2014 @ 13:59:41 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 173.14.3.249
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072019
+    [CVV2] => ****
+    [EMAIL] => most1884@colorado.edu
+    [FIRSTNAME] => Morgan
+    [LASTNAME] => Stefanacci
+    [STREET] => 300 West Maple Ave 
+    [CITY] => Merchantville
+    [STATE] => NJ
+    [ZIP] => 08109
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 13:59:45 - Response TIMESTAMP=2014%2d10%2d20T19%3a59%3a45Z&CORRELATIONID=882012ad350d3&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=9R691893L01719259
+10-20-2014 @ 13:59:45 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-20T19:59:45Z
+    [CORRELATIONID] => 882012ad350d3
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9R691893L01719259
+)
+
+10-20-2014 @ 16:14:29 - Processing order #40311
+10-20-2014 @ 16:14:29 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.127.0
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 112018
+    [CVV2] => ****
+    [EMAIL] => haley.buchner@colorado.edu
+    [FIRSTNAME] => Haley
+    [LASTNAME] => Buchner
+    [STREET] => P.O. Box 775469 United States
+    [CITY] => Steamboat Springs
+    [STATE] => CO
+    [ZIP] => 80477
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 16:14:33 - Response TIMESTAMP=2014%2d10%2d20T22%3a14%3a33Z&CORRELATIONID=fee85ea9b20de&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=4FW19394W3385312E
+10-20-2014 @ 16:14:33 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-20T22:14:33Z
+    [CORRELATIONID] => fee85ea9b20de
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 4FW19394W3385312E
+)
+
+10-20-2014 @ 16:15:10 - Processing order #40312
+10-20-2014 @ 16:15:10 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.41.49.2
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062017
+    [CVV2] => ****
+    [EMAIL] => kelsfritz@me.com
+    [FIRSTNAME] => Kelsey
+    [LASTNAME] => Fritz
+    [STREET] => 24806 Ellesmere 
+    [CITY] => San Antonio
+    [STATE] => TX
+    [ZIP] => 78257
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 16:15:13 - Response TIMESTAMP=2014%2d10%2d20T22%3a15%3a13Z&CORRELATIONID=f59fb5adeac4e&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=2R525432D20815831
+10-20-2014 @ 16:15:13 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-20T22:15:13Z
+    [CORRELATIONID] => f59fb5adeac4e
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2R525432D20815831
+)
+
+10-20-2014 @ 16:26:44 - Processing order #40315
+10-20-2014 @ 16:26:44 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.41.49.2
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => robynmt1108@yahoo.com
+    [FIRSTNAME] => Robyn
+    [LASTNAME] => Tenenbaum
+    [STREET] => 3100 Pearl Parkway #110
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80301
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 16:26:47 - Response TIMESTAMP=2014%2d10%2d20T22%3a26%3a46Z&CORRELATIONID=842a87e37284c&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=0T040692T0375361V
+10-20-2014 @ 16:26:47 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-20T22:26:46Z
+    [CORRELATIONID] => 842a87e37284c
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 0T040692T0375361V
+)
+
+10-20-2014 @ 16:47:34 - Processing order #40317
+10-20-2014 @ 16:47:34 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.41.49.2
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 122016
+    [CVV2] => ****
+    [EMAIL] => jhoward628@gmail.com
+    [FIRSTNAME] => Jessie
+    [LASTNAME] => Howard
+    [STREET] => 590 Guard Hill Road 
+    [CITY] => Bedford
+    [STATE] => NY
+    [ZIP] => 10506
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 16:47:34 - Response TIMESTAMP=2014%2d10%2d20T22%3a47%3a34Z&CORRELATIONID=991068789f2cd&ACK=Failure&VERSION=59%2e0&BUILD=13443904&L_ERRORCODE0=10527&L_SHORTMESSAGE0=Invalid%20Data&L_LONGMESSAGE0=This%20transaction%20cannot%20be%20processed%2e%20Please%20enter%20a%20valid%20credit%20card%20number%20and%20type%2e&L_SEVERITYCODE0=Error&AMT=20%2e00&CURRENCYCODE=USD
+10-20-2014 @ 16:47:34 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-20T22:47:34Z
+    [CORRELATIONID] => 991068789f2cd
+    [ACK] => Failure
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [L_ERRORCODE0] => 10527
+    [L_SHORTMESSAGE0] => Invalid Data
+    [L_LONGMESSAGE0] => This transaction cannot be processed. Please enter a valid credit card number and type.
+    [L_SEVERITYCODE0] => Error
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+)
+
+10-20-2014 @ 16:48:15 - Processing order #40317
+10-20-2014 @ 16:48:15 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.41.49.2
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 122016
+    [CVV2] => ****
+    [EMAIL] => jhoward628@gmail.com
+    [FIRSTNAME] => Jessie
+    [LASTNAME] => Howard
+    [STREET] => 590 Guard Hill Road 
+    [CITY] => Bedford
+    [STATE] => NY
+    [ZIP] => 10506
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 16:48:15 - Response TIMESTAMP=2014%2d10%2d20T22%3a48%3a15Z&CORRELATIONID=17a61436ac640&ACK=Failure&VERSION=59%2e0&BUILD=13443904&L_ERRORCODE0=10527&L_SHORTMESSAGE0=Invalid%20Data&L_LONGMESSAGE0=This%20transaction%20cannot%20be%20processed%2e%20Please%20enter%20a%20valid%20credit%20card%20number%20and%20type%2e&L_SEVERITYCODE0=Error&AMT=20%2e00&CURRENCYCODE=USD
+10-20-2014 @ 16:48:15 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-20T22:48:15Z
+    [CORRELATIONID] => 17a61436ac640
+    [ACK] => Failure
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [L_ERRORCODE0] => 10527
+    [L_SHORTMESSAGE0] => Invalid Data
+    [L_LONGMESSAGE0] => This transaction cannot be processed. Please enter a valid credit card number and type.
+    [L_SEVERITYCODE0] => Error
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+)
+
+10-20-2014 @ 16:49:00 - Processing order #40317
+10-20-2014 @ 16:49:00 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.41.49.2
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062017
+    [CVV2] => ****
+    [EMAIL] => jhoward628@gmail.com
+    [FIRSTNAME] => Jessie
+    [LASTNAME] => Howard
+    [STREET] => 590 Guard Hill Road 
+    [CITY] => Bedford
+    [STATE] => NY
+    [ZIP] => 10506
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 16:49:03 - Response TIMESTAMP=2014%2d10%2d20T22%3a49%3a03Z&CORRELATIONID=68965de5ab5be&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=2UF21985E4784342R
+10-20-2014 @ 16:49:03 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-20T22:49:03Z
+    [CORRELATIONID] => 68965de5ab5be
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2UF21985E4784342R
+)
+
+10-20-2014 @ 21:57:15 - Processing order #40326
+10-20-2014 @ 21:57:15 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 73.34.211.3
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 022017
+    [CVV2] => ****
+    [EMAIL] => lefever.elizabeth@gmail.com
+    [FIRSTNAME] => Elizabeth
+    [LASTNAME] => LeFever
+    [STREET] => 616 W Dahlia St. 
+    [CITY] => Louisville
+    [STATE] => CO
+    [ZIP] => 80027
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 21:57:18 - Response TIMESTAMP=2014%2d10%2d21T03%3a57%3a18Z&CORRELATIONID=2cf3577878e21&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=N&CVV2MATCH=M&TRANSACTIONID=7GA73476CX943712X
+10-20-2014 @ 21:57:18 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-21T03:57:18Z
+    [CORRELATIONID] => 2cf3577878e21
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => N
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 7GA73476CX943712X
+)
+
+10-20-2014 @ 22:36:06 - Processing order #40328
+10-20-2014 @ 22:36:06 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 71.237.88.231
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => gabriellanichols@cox.net
+    [FIRSTNAME] => gabriella
+    [LASTNAME] => nichols
+    [STREET] => 17 argos 
+    [CITY] => laguna niguel
+    [STATE] => CA
+    [ZIP] => 92677
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-20-2014 @ 22:36:09 - Response TIMESTAMP=2014%2d10%2d21T04%3a36%3a09Z&CORRELATIONID=4a6b7554334a0&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=39142060VA344174H
+10-20-2014 @ 22:36:09 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-21T04:36:09Z
+    [CORRELATIONID] => 4a6b7554334a0
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 39142060VA344174H
+)
+
+10-22-2014 @ 12:55:14 - Processing order #40519
+10-22-2014 @ 12:55:14 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.126.184
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 052017
+    [CVV2] => ****
+    [EMAIL] => nancygkornblum@gmail.com
+    [FIRSTNAME] => Nancy
+    [LASTNAME] => Kornblum
+    [STREET] => 402 Pine 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80302
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-22-2014 @ 12:55:17 - Response TIMESTAMP=2014%2d10%2d22T18%3a55%3a17Z&CORRELATIONID=c641668879562&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=3Y497450NG968152S
+10-22-2014 @ 12:55:17 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-22T18:55:17Z
+    [CORRELATIONID] => c641668879562
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 3Y497450NG968152S
+)
+
+10-23-2014 @ 07:19:17 - Processing order #40531
+10-23-2014 @ 07:19:17 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 12.216.31.162
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092014
+    [CVV2] => ****
+    [EMAIL] => holly.traut@gmail.com
+    [FIRSTNAME] => Holly
+    [LASTNAME] => Traut
+    [STREET] => 2900 Wyandot St Unit 301
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80211
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-23-2014 @ 07:19:18 - Response TIMESTAMP=2014%2d10%2d23T13%3a19%3a18Z&CORRELATIONID=a73853441156d&ACK=Failure&VERSION=59%2e0&BUILD=13443904&L_ERRORCODE0=10502&L_SHORTMESSAGE0=Invalid%20Data&L_LONGMESSAGE0=This%20transaction%20cannot%20be%20processed%2e%20Please%20use%20a%20valid%20credit%20card%2e&L_SEVERITYCODE0=Error&AMT=20%2e00&CURRENCYCODE=USD
+10-23-2014 @ 07:19:18 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-23T13:19:18Z
+    [CORRELATIONID] => a73853441156d
+    [ACK] => Failure
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [L_ERRORCODE0] => 10502
+    [L_SHORTMESSAGE0] => Invalid Data
+    [L_LONGMESSAGE0] => This transaction cannot be processed. Please use a valid credit card.
+    [L_SEVERITYCODE0] => Error
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+)
+
+10-23-2014 @ 07:19:32 - Processing order #40531
+10-23-2014 @ 07:19:32 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 12.216.31.162
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => holly.traut@gmail.com
+    [FIRSTNAME] => Holly
+    [LASTNAME] => Traut
+    [STREET] => 2900 Wyandot St Unit 301
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80211
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-23-2014 @ 07:19:35 - Response TIMESTAMP=2014%2d10%2d23T13%3a19%3a35Z&CORRELATIONID=f57b3d3634817&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=6C329977DM745704A
+10-23-2014 @ 07:19:35 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-23T13:19:35Z
+    [CORRELATIONID] => f57b3d3634817
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6C329977DM745704A
+)
+
+10-25-2014 @ 08:44:16 - Processing order #40552
+10-25-2014 @ 08:44:16 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.190.84.199
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 042017
+    [CVV2] => ****
+    [EMAIL] => kingsley@stoken.net
+    [FIRSTNAME] => Kingsley
+    [LASTNAME] => Stoken
+    [STREET] => 2332 20th St 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-25-2014 @ 08:44:19 - Response TIMESTAMP=2014%2d10%2d25T14%3a44%3a19Z&CORRELATIONID=afd19bbf9e9af&ACK=Success&VERSION=59%2e0&BUILD=13443904&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=44Y38168S1005421W
+10-25-2014 @ 08:44:19 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-25T14:44:19Z
+    [CORRELATIONID] => afd19bbf9e9af
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13443904
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 44Y38168S1005421W
+)
+
+10-27-2014 @ 14:47:46 - Processing order #40578
+10-27-2014 @ 14:47:46 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 50.194.137.221
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 022017
+    [CVV2] => ****
+    [EMAIL] => janepaddison@paddisonlaw.com
+    [FIRSTNAME] => Jane
+    [LASTNAME] => Paddison
+    [STREET] => 2941 Castle Peak Ave. 
+    [CITY] => Superior
+    [STATE] => CO
+    [ZIP] => 80027
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-27-2014 @ 14:47:48 - Response TIMESTAMP=2014%2d10%2d27T20%3a47%3a48Z&CORRELATIONID=d45784489373a&ACK=Success&VERSION=59%2e0&BUILD=13517841&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=4JB43421UE0806918
+10-27-2014 @ 14:47:48 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-27T20:47:48Z
+    [CORRELATIONID] => d45784489373a
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13517841
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 4JB43421UE0806918
+)
+
+10-27-2014 @ 20:03:14 - Processing order #40586
+10-27-2014 @ 20:03:14 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 173.14.3.249
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072019
+    [CVV2] => ****
+    [EMAIL] => most1884@colorado.edu
+    [FIRSTNAME] => Morgan
+    [LASTNAME] => Stefanacci
+    [STREET] => 300 West Maple Ave 
+    [CITY] => Merchantville
+    [STATE] => NJ
+    [ZIP] => 08109
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-27-2014 @ 20:03:16 - Response TIMESTAMP=2014%2d10%2d28T02%3a03%3a16Z&CORRELATIONID=26d0c293cbd00&ACK=Success&VERSION=59%2e0&BUILD=13517841&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=5DU475594L234852G
+10-27-2014 @ 20:03:16 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-28T02:03:16Z
+    [CORRELATIONID] => 26d0c293cbd00
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13517841
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 5DU475594L234852G
+)
+
+10-29-2014 @ 07:13:43 - Processing order #41206
+10-29-2014 @ 07:13:43 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 12.216.31.162
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => holly.traut@gmail.com
+    [FIRSTNAME] => Holly
+    [LASTNAME] => Traut
+    [STREET] => 2900 Wyandot St Unit 301
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80211
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-29-2014 @ 07:13:46 - Response TIMESTAMP=2014%2d10%2d29T13%3a13%3a46Z&CORRELATIONID=2ed3a6b02c4df&ACK=Success&VERSION=59%2e0&BUILD=13562569&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=37835929JU172021C
+10-29-2014 @ 07:13:46 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-29T13:13:46Z
+    [CORRELATIONID] => 2ed3a6b02c4df
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13562569
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 37835929JU172021C
+)
+
+10-29-2014 @ 14:31:57 - Processing order #43310
+10-29-2014 @ 14:31:57 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 128.138.65.119
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => ashleymk9@yahoo.com
+    [FIRSTNAME] => ashley
+    [LASTNAME] => buckley
+    [STREET] => 2127 kittredge west hall 
+    [CITY] => boulder
+    [STATE] => CO
+    [ZIP] => 80310
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+10-29-2014 @ 14:32:00 - Response TIMESTAMP=2014%2d10%2d29T20%3a31%3a59Z&CORRELATIONID=2bdc72a38a7fc&ACK=Success&VERSION=59%2e0&BUILD=13562569&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=5T1874483F1814047
+10-29-2014 @ 14:32:00 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-10-29T20:31:59Z
+    [CORRELATIONID] => 2bdc72a38a7fc
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13562569
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 5T1874483F1814047
+)
+
+11-01-2014 @ 21:10:38 - Processing order #44369
+11-01-2014 @ 21:10:38 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.190.103.211
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 102015
+    [CVV2] => ****
+    [EMAIL] => ekolisch@gmail.com
+    [FIRSTNAME] => Erika
+    [LASTNAME] => Kolisch
+    [STREET] => 700 Poplar Ave 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-01-2014 @ 21:10:41 - Response TIMESTAMP=2014%2d11%2d02T03%3a10%3a41Z&CORRELATIONID=9ef3ccea57f57&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=1MC45218CC506724P
+11-01-2014 @ 21:10:41 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-02T03:10:41Z
+    [CORRELATIONID] => 9ef3ccea57f57
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 1MC45218CC506724P
+)
+
+11-03-2014 @ 10:01:11 - Processing order #44399
+11-03-2014 @ 10:01:11 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.190.84.199
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 122016
+    [CVV2] => ****
+    [EMAIL] => awimmer75@gmail.com
+    [FIRSTNAME] => Anne
+    [LASTNAME] => Stoken
+    [STREET] => 2332 20th Street 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-03-2014 @ 10:01:14 - Response TIMESTAMP=2014%2d11%2d03T17%3a01%3a14Z&CORRELATIONID=e0c070d1d881d&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=9Y411249YD977613U
+11-03-2014 @ 10:01:14 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-03T17:01:14Z
+    [CORRELATIONID] => e0c070d1d881d
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9Y411249YD977613U
+)
+
+11-03-2014 @ 14:57:37 - Processing order #44405
+11-03-2014 @ 14:57:37 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.176.62.221
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092016
+    [CVV2] => ****
+    [EMAIL] => katie.lamb@colorado.edu
+    [FIRSTNAME] => Katherine
+    [LASTNAME] => Lamb
+    [STREET] => 5670 Queen Anne Drive 
+    [CITY] => Santa Rosa
+    [STATE] => CA
+    [ZIP] => 95409
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-03-2014 @ 14:57:40 - Response TIMESTAMP=2014%2d11%2d03T21%3a57%3a40Z&CORRELATIONID=24fc440ac83bd&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=8YV11420F2926943D
+11-03-2014 @ 14:57:40 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-03T21:57:40Z
+    [CORRELATIONID] => 24fc440ac83bd
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 8YV11420F2926943D
+)
+
+11-04-2014 @ 15:01:23 - Processing order #44684
+11-04-2014 @ 15:01:23 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 73.34.197.199
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 012017
+    [CVV2] => ****
+    [EMAIL] => arspasoff@gmail.com
+    [FIRSTNAME] => Amy
+    [LASTNAME] => Spasoff
+    [STREET] => 4125 San Marco Drive 
+    [CITY] => Longmont
+    [STATE] => CO
+    [ZIP] => 80503
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-04-2014 @ 15:01:26 - Response TIMESTAMP=2014%2d11%2d04T22%3a01%3a26Z&CORRELATIONID=6da8401bc4fd&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=6S326331H7471145W
+11-04-2014 @ 15:01:26 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-04T22:01:26Z
+    [CORRELATIONID] => 6da8401bc4fd
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6S326331H7471145W
+)
+
+11-04-2014 @ 17:51:52 - Processing order #44698
+11-04-2014 @ 17:51:52 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 71.237.73.152
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 122017
+    [CVV2] => ****
+    [EMAIL] => sdseigal@yahoo.com
+    [FIRSTNAME] => Steven
+    [LASTNAME] => Seigal
+    [STREET] => 747 10th St United States
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80302
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-04-2014 @ 17:51:55 - Response TIMESTAMP=2014%2d11%2d05T00%3a51%3a55Z&CORRELATIONID=b1511767d0fc&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=8BA195979A961231K
+11-04-2014 @ 17:51:55 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-05T00:51:55Z
+    [CORRELATIONID] => b1511767d0fc
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 8BA195979A961231K
+)
+
+11-05-2014 @ 12:09:48 - Processing order #44721
+11-05-2014 @ 12:09:48 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 12.216.31.162
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => holly.traut@gmail.com
+    [FIRSTNAME] => Holly
+    [LASTNAME] => Traut
+    [STREET] => 2900 Wyandot St Unit 301
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80211
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-05-2014 @ 12:09:50 - Response TIMESTAMP=2014%2d11%2d05T19%3a09%3a50Z&CORRELATIONID=e9393e5357506&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=8GS675923E234333W
+11-05-2014 @ 12:09:50 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-05T19:09:50Z
+    [CORRELATIONID] => e9393e5357506
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 8GS675923E234333W
+)
+
+11-06-2014 @ 08:02:09 - Processing order #44745
+11-06-2014 @ 08:02:09 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.200.7
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => lmonet20@aol.com
+    [FIRSTNAME] => Lisa
+    [LASTNAME] => Wayne
+    [STREET] => 1775 Sherman Street Suite 1650
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80203
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-06-2014 @ 08:02:12 - Response TIMESTAMP=2014%2d11%2d06T15%3a02%3a11Z&CORRELATIONID=737c822f92cc2&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=278700140E520435Y
+11-06-2014 @ 08:02:12 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-06T15:02:11Z
+    [CORRELATIONID] => 737c822f92cc2
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 278700140E520435Y
+)
+
+11-07-2014 @ 19:55:50 - Processing order #44795
+11-07-2014 @ 19:55:50 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.164.172.71
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 082017
+    [CVV2] => ****
+    [EMAIL] => meganrbent@gmail.com
+    [FIRSTNAME] => megan
+    [LASTNAME] => bent
+    [STREET] => 1427 Norwood ave United States
+    [CITY] => boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-07-2014 @ 19:55:50 - Response TIMESTAMP=2014%2d11%2d08T02%3a55%3a50Z&CORRELATIONID=aa01944978c79&ACK=Failure&VERSION=59%2e0&BUILD=13597118&L_ERRORCODE0=10527&L_SHORTMESSAGE0=Invalid%20Data&L_LONGMESSAGE0=This%20transaction%20cannot%20be%20processed%2e%20Please%20enter%20a%20valid%20credit%20card%20number%20and%20type%2e&L_SEVERITYCODE0=Error&AMT=95%2e00&CURRENCYCODE=USD
+11-07-2014 @ 19:55:50 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-08T02:55:50Z
+    [CORRELATIONID] => aa01944978c79
+    [ACK] => Failure
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [L_ERRORCODE0] => 10527
+    [L_SHORTMESSAGE0] => Invalid Data
+    [L_LONGMESSAGE0] => This transaction cannot be processed. Please enter a valid credit card number and type.
+    [L_SEVERITYCODE0] => Error
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+)
+
+11-07-2014 @ 19:57:16 - Processing order #44795
+11-07-2014 @ 19:57:16 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.164.172.71
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 082015
+    [CVV2] => ****
+    [EMAIL] => meganrbent@gmail.com
+    [FIRSTNAME] => megan
+    [LASTNAME] => bent
+    [STREET] => 1427 Norwood ave United States
+    [CITY] => boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-07-2014 @ 19:57:19 - Response TIMESTAMP=2014%2d11%2d08T02%3a57%3a19Z&CORRELATIONID=9f7145dc72fe0&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=99C31415BT722635A
+11-07-2014 @ 19:57:19 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-08T02:57:19Z
+    [CORRELATIONID] => 9f7145dc72fe0
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 99C31415BT722635A
+)
+
+11-09-2014 @ 19:40:57 - Processing order #45150
+11-09-2014 @ 19:40:57 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.161.205.126
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => kelleybru@gmail.com
+    [FIRSTNAME] => Kelley
+    [LASTNAME] => Synnott
+    [STREET] => 3660 19th Street 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-09-2014 @ 19:41:00 - Response TIMESTAMP=2014%2d11%2d10T02%3a41%3a00Z&CORRELATIONID=c28a23e7a2416&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=9PX04921CC218352R
+11-09-2014 @ 19:41:00 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-10T02:41:00Z
+    [CORRELATIONID] => c28a23e7a2416
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9PX04921CC218352R
+)
+
+11-11-2014 @ 10:13:33 - Processing order #45238
+11-11-2014 @ 10:13:33 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.82.231
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 112017
+    [CVV2] => ****
+    [EMAIL] => njavurek@gmail.com
+    [FIRSTNAME] => Nicole
+    [LASTNAME] => Javurek
+    [STREET] => 3481 Cripple Creek Sq United States
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80305
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-11-2014 @ 10:13:37 - Response TIMESTAMP=2014%2d11%2d11T17%3a13%3a37Z&CORRELATIONID=394e4606d3b2a&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=76W34328BL824300N
+11-11-2014 @ 10:13:37 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-11T17:13:37Z
+    [CORRELATIONID] => 394e4606d3b2a
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 76W34328BL824300N
+)
+
+11-11-2014 @ 17:59:08 - Processing order #45431
+11-11-2014 @ 17:59:08 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.124.25
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062017
+    [CVV2] => ****
+    [EMAIL] => kelsfritz@me.com
+    [FIRSTNAME] => Kelsey
+    [LASTNAME] => Fritz
+    [STREET] => 24806 Ellesmere 
+    [CITY] => San Antonio
+    [STATE] => TX
+    [ZIP] => 78257
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-11-2014 @ 17:59:11 - Response TIMESTAMP=2014%2d11%2d12T00%3a59%3a11Z&CORRELATIONID=86b6b0ba6e5ca&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=19N12582UX0068005
+11-11-2014 @ 17:59:11 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-12T00:59:11Z
+    [CORRELATIONID] => 86b6b0ba6e5ca
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 19N12582UX0068005
+)
+
+11-11-2014 @ 22:15:32 - Processing order #45641
+11-11-2014 @ 22:15:32 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 50.152.50.175
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072017
+    [CVV2] => ****
+    [EMAIL] => sarahwheeler95@gmail.com
+    [FIRSTNAME] => Deborah
+    [LASTNAME] => Wheeler
+    [STREET] => 135 West 70th Street 3BC
+    [CITY] => New York
+    [STATE] => NY
+    [ZIP] => 10023
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-11-2014 @ 22:15:35 - Response TIMESTAMP=2014%2d11%2d12T05%3a15%3a35Z&CORRELATIONID=2da3f7bfee80d&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=2JV38000VA4690704
+11-11-2014 @ 22:15:35 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-12T05:15:35Z
+    [CORRELATIONID] => 2da3f7bfee80d
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2JV38000VA4690704
+)
+
+11-12-2014 @ 20:39:51 - Processing order #45778
+11-12-2014 @ 20:39:51 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 70.196.193.17
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072016
+    [CVV2] => ****
+    [EMAIL] => haro1098@colorado.edu
+    [FIRSTNAME] => Hannelore
+    [LASTNAME] => Rolfing
+    [STREET] => 1038 14th Street 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80302
+    [COUNTRYCODE] => US
+    [SHIPTONAME] => Hannelore Rolfing
+    [SHIPTOSTREET] => 1038 14th Street
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => Boulder
+    [SHIPTOSTATE] => CO
+    [SHIPTOCOUNTRYCODE] => US
+    [SHIPTOZIP] => 80302
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-12-2014 @ 20:39:55 - Response TIMESTAMP=2014%2d11%2d13T03%3a39%3a54Z&CORRELATIONID=3db74ee512e64&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=N&CVV2MATCH=M&TRANSACTIONID=80X78500D1667920B
+11-12-2014 @ 20:39:55 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-13T03:39:54Z
+    [CORRELATIONID] => 3db74ee512e64
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => N
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 80X78500D1667920B
+)
+
+11-14-2014 @ 10:30:03 - Processing order #45835
+11-14-2014 @ 10:30:03 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.190.7.94
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 122014
+    [CVV2] => ****
+    [EMAIL] => rm.rachelm@gmail.com
+    [FIRSTNAME] => Rachel
+    [LASTNAME] => Norton
+    [STREET] => 2037 Ash St United States
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80207
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-14-2014 @ 10:30:05 - Response TIMESTAMP=2014%2d11%2d14T17%3a30%3a05Z&CORRELATIONID=93098c5bb6a&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=N&CVV2MATCH=M&TRANSACTIONID=1VX276054X481313N
+11-14-2014 @ 10:30:05 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-14T17:30:05Z
+    [CORRELATIONID] => 93098c5bb6a
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => N
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 1VX276054X481313N
+)
+
+11-15-2014 @ 17:30:46 - Processing order #45930
+11-15-2014 @ 17:30:46 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 24.9.62.148
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => susan@lvh3.net
+    [FIRSTNAME] => Susan
+    [LASTNAME] => Hanson
+    [STREET] => 1750 30th St #229 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80301
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-15-2014 @ 17:30:50 - Response TIMESTAMP=2014%2d11%2d16T00%3a30%3a50Z&CORRELATIONID=a5ac32c1e55f&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=56E79549EP317145H
+11-15-2014 @ 17:30:50 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-16T00:30:50Z
+    [CORRELATIONID] => a5ac32c1e55f
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 56E79549EP317145H
+)
+
+11-18-2014 @ 10:04:36 - Processing order #46277
+11-18-2014 @ 10:04:36 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 50.194.157.65
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072017
+    [CVV2] => ****
+    [EMAIL] => narisawild@gmail.com
+    [FIRSTNAME] => Narisa
+    [LASTNAME] => Wild
+    [STREET] => 1195 Fairfield Drive 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80305
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-18-2014 @ 10:04:39 - Response TIMESTAMP=2014%2d11%2d18T17%3a04%3a39Z&CORRELATIONID=c2824c106e142&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=N&CVV2MATCH=M&TRANSACTIONID=4N8665128Y371413K
+11-18-2014 @ 10:04:39 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-18T17:04:39Z
+    [CORRELATIONID] => c2824c106e142
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => N
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 4N8665128Y371413K
+)
+
+11-18-2014 @ 22:36:26 - Processing order #46322
+11-18-2014 @ 22:36:26 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.124.25
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062017
+    [CVV2] => ****
+    [EMAIL] => kelsfritz@me.com
+    [FIRSTNAME] => Kelsey
+    [LASTNAME] => Fritz
+    [STREET] => 24806 Ellesmere 
+    [CITY] => San Antonio
+    [STATE] => TX
+    [ZIP] => 78257
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-18-2014 @ 22:36:28 - Response TIMESTAMP=2014%2d11%2d19T05%3a36%3a28Z&CORRELATIONID=9ceeeb5fc8523&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=1E0025192K943825R
+11-18-2014 @ 22:36:28 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-19T05:36:28Z
+    [CORRELATIONID] => 9ceeeb5fc8523
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 1E0025192K943825R
+)
+
+11-21-2014 @ 12:57:16 - Processing order #50077
+11-21-2014 @ 12:57:16 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 76.120.75.117
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 112017
+    [CVV2] => ****
+    [EMAIL] => jeanabracksieck@gmail.com
+    [FIRSTNAME] => Jeana
+    [LASTNAME] => Bracksieck
+    [STREET] => POBox 3593 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80307
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-21-2014 @ 12:57:20 - Response TIMESTAMP=2014%2d11%2d21T19%3a57%3a20Z&CORRELATIONID=3233772d48415&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=12G393398F136531U
+11-21-2014 @ 12:57:20 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-21T19:57:20Z
+    [CORRELATIONID] => 3233772d48415
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 12G393398F136531U
+)
+
+11-22-2014 @ 16:17:04 - Processing order #50100
+11-22-2014 @ 16:17:04 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 71.211.190.124
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 012018
+    [CVV2] => ****
+    [EMAIL] => carol@carolfrank.com
+    [FIRSTNAME] => Carol
+    [LASTNAME] => Frank
+    [STREET] => 3603 Roundtree Court 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-22-2014 @ 16:17:09 - Response TIMESTAMP=2014%2d11%2d22T23%3a17%3a09Z&CORRELATIONID=eb93d19d67&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=3FA84667X8223062R
+11-22-2014 @ 16:17:09 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-22T23:17:09Z
+    [CORRELATIONID] => eb93d19d67
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 3FA84667X8223062R
+)
+
+11-23-2014 @ 18:22:59 - Processing order #50119
+11-23-2014 @ 18:23:00 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 73.3.159.213
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 012017
+    [CVV2] => ****
+    [EMAIL] => joylalbert@comcast.net
+    [FIRSTNAME] => Joy
+    [LASTNAME] => Albert
+    [STREET] => 2144 Indian Peaks Circle 
+    [CITY] => Longmont
+    [STATE] => CO
+    [ZIP] => 80504
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-23-2014 @ 18:23:04 - Response TIMESTAMP=2014%2d11%2d24T01%3a23%3a04Z&CORRELATIONID=4aa9812aa3f61&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=9SL60156P8535673B
+11-23-2014 @ 18:23:04 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-24T01:23:04Z
+    [CORRELATIONID] => 4aa9812aa3f61
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9SL60156P8535673B
+)
+
+11-23-2014 @ 18:25:01 - Processing order #50120
+11-23-2014 @ 18:25:01 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 73.3.159.213
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => glenndalbert@comcast.net
+    [FIRSTNAME] => Glenn
+    [LASTNAME] => Albert
+    [STREET] => 2144 Indian Peaks Circle 
+    [CITY] => Longmont
+    [STATE] => CO
+    [ZIP] => 80504
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-23-2014 @ 18:25:04 - Response TIMESTAMP=2014%2d11%2d24T01%3a25%3a04Z&CORRELATIONID=f5e65254ea5ec&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=1N294319KF348543D
+11-23-2014 @ 18:25:04 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-24T01:25:04Z
+    [CORRELATIONID] => f5e65254ea5ec
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 1N294319KF348543D
+)
+
+11-25-2014 @ 08:15:35 - Processing order #50167
+11-25-2014 @ 08:15:35 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 76.120.71.154
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062017
+    [CVV2] => ****
+    [EMAIL] => kdulin6@aol.com
+    [FIRSTNAME] => Sarah
+    [LASTNAME] => Dulin
+    [STREET] => 8449 Greenwood Drive 
+    [CITY] => Niwot
+    [STATE] => CO
+    [ZIP] => 80503
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-25-2014 @ 08:15:38 - Response TIMESTAMP=2014%2d11%2d25T15%3a15%3a38Z&CORRELATIONID=7d44ec6ef1a2a&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=7FA50527Y1251814J
+11-25-2014 @ 08:15:38 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-25T15:15:38Z
+    [CORRELATIONID] => 7d44ec6ef1a2a
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 7FA50527Y1251814J
+)
+
+11-25-2014 @ 08:36:10 - Processing order #50168
+11-25-2014 @ 08:36:10 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 12.216.31.162
+    [AMT] => 40
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => holly.traut@gmail.com
+    [FIRSTNAME] => Holly
+    [LASTNAME] => Traut
+    [STREET] => 2900 Wyandot St Unit 301
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80211
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-25-2014 @ 08:36:13 - Response TIMESTAMP=2014%2d11%2d25T15%3a36%3a13Z&CORRELATIONID=51f252fcf4178&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=40%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=4G7448177K647093M
+11-25-2014 @ 08:36:13 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-25T15:36:13Z
+    [CORRELATIONID] => 51f252fcf4178
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 40.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 4G7448177K647093M
+)
+
+11-25-2014 @ 10:48:41 - Processing order #50173
+11-25-2014 @ 10:48:41 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 107.2.139.24
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072015
+    [CVV2] => ****
+    [EMAIL] => analieseross@aol.com
+    [FIRSTNAME] => analiese
+    [LASTNAME] => ross
+    [STREET] => 1110 linden ave 
+    [CITY] => boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+11-25-2014 @ 10:48:44 - Response TIMESTAMP=2014%2d11%2d25T17%3a48%3a44Z&CORRELATIONID=1731baabc94a7&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=5M7270366V525454K
+11-25-2014 @ 10:48:44 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-11-25T17:48:44Z
+    [CORRELATIONID] => 1731baabc94a7
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 5M7270366V525454K
+)
+
+12-01-2014 @ 10:23:53 - Processing order #50299
+12-01-2014 @ 10:23:53 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.151.91.89
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 012015
+    [CVV2] => ****
+    [EMAIL] => jgaddis@kkofirm.com
+    [FIRSTNAME] => John
+    [LASTNAME] => Gaddis
+    [STREET] => 8921 Prairie Knoll Drive 
+    [CITY] => Longmont
+    [STATE] => CO
+    [ZIP] => 80503
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-01-2014 @ 10:23:56 - Response TIMESTAMP=2014%2d12%2d01T17%3a23%3a56Z&CORRELATIONID=422d02ae6bccb&ACK=Success&VERSION=59%2e0&BUILD=13597118&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=15M89647LF459510R
+12-01-2014 @ 10:23:56 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-01T17:23:56Z
+    [CORRELATIONID] => 422d02ae6bccb
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 13597118
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 15M89647LF459510R
+)
+
+12-05-2014 @ 14:34:42 - Processing order #51663
+12-05-2014 @ 14:34:42 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.41.49.2
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062017
+    [CVV2] => ****
+    [EMAIL] => kelsfritz@me.com
+    [FIRSTNAME] => Kelsey
+    [LASTNAME] => Fritz
+    [STREET] => 24806 Ellesmere 
+    [CITY] => San Antonio
+    [STATE] => TX
+    [ZIP] => 78257
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-05-2014 @ 14:34:45 - Response TIMESTAMP=2014%2d12%2d05T21%3a34%3a44Z&CORRELATIONID=5814a0edc659&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=3SJ835087K029094U
+12-05-2014 @ 14:34:45 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-05T21:34:44Z
+    [CORRELATIONID] => 5814a0edc659
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 3SJ835087K029094U
+)
+
+12-07-2014 @ 14:44:58 - Processing order #53698
+12-07-2014 @ 14:44:58 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 208.100.181.224
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 052019
+    [CVV2] => ****
+    [EMAIL] => cjsouther@bendbroadband.com
+    [FIRSTNAME] => Courtney
+    [LASTNAME] => Souther
+    [STREET] => 19412 green lakes loop 
+    [CITY] => Bend
+    [STATE] => OR
+    [ZIP] => 97702
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-07-2014 @ 14:45:02 - Response TIMESTAMP=2014%2d12%2d07T21%3a45%3a02Z&CORRELATIONID=4152d2636ce86&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=9TA47756L2133262K
+12-07-2014 @ 14:45:02 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-07T21:45:02Z
+    [CORRELATIONID] => 4152d2636ce86
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9TA47756L2133262K
+)
+
+12-09-2014 @ 13:46:09 - Processing order #53786
+12-09-2014 @ 13:46:09 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 71.237.90.55
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072015
+    [CVV2] => ****
+    [EMAIL] => amelia5920@aim.com
+    [FIRSTNAME] => Sheila
+    [LASTNAME] => Brown
+    [STREET] => 26 howe street 
+    [CITY] => Hingham
+    [STATE] => MA
+    [ZIP] => 02043
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-09-2014 @ 13:46:12 - Response TIMESTAMP=2014%2d12%2d09T20%3a46%3a12Z&CORRELATIONID=c8630c362d52a&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=2H714777NE912080J
+12-09-2014 @ 13:46:12 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-09T20:46:12Z
+    [CORRELATIONID] => c8630c362d52a
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2H714777NE912080J
+)
+
+12-09-2014 @ 21:29:22 - Processing order #53809
+12-09-2014 @ 21:29:22 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.176.78.210
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 052019
+    [CVV2] => ****
+    [EMAIL] => jayme.schaeffer@colorado.edu
+    [FIRSTNAME] => Jayme
+    [LASTNAME] => Schaeffer
+    [STREET] => 22172 Wayside 
+    [CITY] => mission viejo
+    [STATE] => CA
+    [ZIP] => 92692
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-09-2014 @ 21:29:26 - Response TIMESTAMP=2014%2d12%2d10T04%3a29%3a26Z&CORRELATIONID=3b88b4ee91e3a&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=8N76448651911240E
+12-09-2014 @ 21:29:26 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-10T04:29:26Z
+    [CORRELATIONID] => 3b88b4ee91e3a
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 8N76448651911240E
+)
+
+12-10-2014 @ 05:52:22 - Processing order #53815
+12-10-2014 @ 05:52:22 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 12.10.172.155
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 032017
+    [CVV2] => ****
+    [EMAIL] => mie3@georgetown.edu
+    [FIRSTNAME] => Meredith
+    [LASTNAME] => English
+    [STREET] => 10 Emerson Place Apt 6K United States
+    [CITY] => Boston
+    [STATE] => MA
+    [ZIP] => 02114
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-10-2014 @ 05:52:25 - Response TIMESTAMP=2014%2d12%2d10T12%3a52%3a25Z&CORRELATIONID=9ab3c967e0626&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=7M408406JL7375028
+12-10-2014 @ 05:52:25 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-10T12:52:25Z
+    [CORRELATIONID] => 9ab3c967e0626
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 7M408406JL7375028
+)
+
+12-10-2014 @ 09:13:19 - Processing order #53820
+12-10-2014 @ 09:13:19 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 24.8.32.229
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 012015
+    [CVV2] => ****
+    [EMAIL] => jgaddis@kkofirm.com
+    [FIRSTNAME] => John
+    [LASTNAME] => Gaddis
+    [STREET] => 8921 Prairie Knoll Drive 
+    [CITY] => Longmont
+    [STATE] => CO
+    [ZIP] => 80503
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-10-2014 @ 09:13:22 - Response TIMESTAMP=2014%2d12%2d10T16%3a13%3a22Z&CORRELATIONID=4df7a2a153363&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=2D153452YX897444A
+12-10-2014 @ 09:13:22 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-10T16:13:22Z
+    [CORRELATIONID] => 4df7a2a153363
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2D153452YX897444A
+)
+
+12-10-2014 @ 16:55:39 - Processing order #53834
+12-10-2014 @ 16:55:39 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 128.138.65.109
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 012018
+    [CVV2] => ****
+    [EMAIL] => perri.baker@colorado.edu
+    [FIRSTNAME] => Perri
+    [LASTNAME] => Baker
+    [STREET] => 23 bradish lane 
+    [CITY] => Bay shore
+    [STATE] => NY
+    [ZIP] => 11707
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-10-2014 @ 16:55:42 - Response TIMESTAMP=2014%2d12%2d10T23%3a55%3a42Z&CORRELATIONID=dd54184114c8d&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=N&CVV2MATCH=M&TRANSACTIONID=2MP585642V466251T
+12-10-2014 @ 16:55:42 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-10T23:55:42Z
+    [CORRELATIONID] => dd54184114c8d
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => N
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2MP585642V466251T
+)
+
+12-12-2014 @ 21:51:47 - Processing order #54503
+12-12-2014 @ 21:51:47 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 166.173.60.173
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 052019
+    [CVV2] => ****
+    [EMAIL] => jayme.schaeffer@colorado.edu
+    [FIRSTNAME] => Jayme
+    [LASTNAME] => Schaeffer
+    [STREET] => 22172 Wayside 
+    [CITY] => mission viejo
+    [STATE] => CA
+    [ZIP] => 92692
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-12-2014 @ 21:51:50 - Response TIMESTAMP=2014%2d12%2d13T04%3a51%3a49Z&CORRELATIONID=50623bf2be49d&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=6T481514397574837
+12-12-2014 @ 21:51:50 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-13T04:51:49Z
+    [CORRELATIONID] => 50623bf2be49d
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6T481514397574837
+)
+
+12-14-2014 @ 09:21:57 - Processing order #54544
+12-14-2014 @ 09:21:57 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 107.2.139.24
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 072015
+    [CVV2] => ****
+    [EMAIL] => analieseross@aol.com
+    [FIRSTNAME] => analiese
+    [LASTNAME] => ross
+    [STREET] => 1110 linden ave 
+    [CITY] => boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-14-2014 @ 09:22:00 - Response TIMESTAMP=2014%2d12%2d14T16%3a22%3a00Z&CORRELATIONID=21f4a11e445cd&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=87W359268P664614M
+12-14-2014 @ 09:22:00 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-14T16:22:00Z
+    [CORRELATIONID] => 21f4a11e445cd
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 87W359268P664614M
+)
+
+12-14-2014 @ 09:32:48 - Processing order #54545
+12-14-2014 @ 09:32:48 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 71.237.90.217
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 122017
+    [CVV2] => ****
+    [EMAIL] => caje7381@colorado.edu
+    [FIRSTNAME] => Carden
+    [LASTNAME] => Jennings
+    [STREET] => 600 Sheridan Road 
+    [CITY] => Glencoe
+    [STATE] => IL
+    [ZIP] => 60022
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-14-2014 @ 09:32:51 - Response TIMESTAMP=2014%2d12%2d14T16%3a32%3a51Z&CORRELATIONID=60287d10d5ad9&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=6LX02611MJ336754A
+12-14-2014 @ 09:32:51 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-14T16:32:51Z
+    [CORRELATIONID] => 60287d10d5ad9
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6LX02611MJ336754A
+)
+
+12-14-2014 @ 23:28:11 - Processing order #54599
+12-14-2014 @ 23:28:11 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 67.166.32.117
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 112017
+    [CVV2] => ****
+    [EMAIL] => camillacalhoun@gmail.com
+    [FIRSTNAME] => Camilla
+    [LASTNAME] => Calhoun
+    [STREET] => 2111 4th St 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80302
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-14-2014 @ 23:28:14 - Response TIMESTAMP=2014%2d12%2d15T06%3a28%3a13Z&CORRELATIONID=8644337bb7394&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=6VA352597V9486356
+12-14-2014 @ 23:28:14 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-15T06:28:13Z
+    [CORRELATIONID] => 8644337bb7394
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6VA352597V9486356
+)
+
+12-15-2014 @ 07:03:37 - Processing order #54602
+12-15-2014 @ 07:03:37 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 73.14.13.214
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 082017
+    [CVV2] => ****
+    [EMAIL] => analiese.m.brown@gmail.com
+    [FIRSTNAME] => Analiese
+    [LASTNAME] => Brown
+    [STREET] => 1520 19th St 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80302
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-15-2014 @ 07:03:39 - Response TIMESTAMP=2014%2d12%2d15T14%3a03%3a39Z&CORRELATIONID=11103469d079&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=7GJ7111090653925R
+12-15-2014 @ 07:03:39 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-15T14:03:39Z
+    [CORRELATIONID] => 11103469d079
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 7GJ7111090653925R
+)
+
+12-15-2014 @ 14:03:12 - Processing order #54618
+12-15-2014 @ 14:03:12 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 165.236.179.194
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => mie3@georgetown.edu
+    [FIRSTNAME] => Meredith
+    [LASTNAME] => English
+    [STREET] => 10 Emerson Place Apt 6K United States
+    [CITY] => Boston
+    [STATE] => MA
+    [ZIP] => 02114
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-15-2014 @ 14:03:16 - Response TIMESTAMP=2014%2d12%2d15T21%3a03%3a16Z&CORRELATIONID=983b43ea7897c&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=2UX891958G960115S
+12-15-2014 @ 14:03:16 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-15T21:03:16Z
+    [CORRELATIONID] => 983b43ea7897c
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2UX891958G960115S
+)
+
+12-15-2014 @ 14:56:43 - Processing order #54624
+12-15-2014 @ 14:56:43 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 128.138.65.139
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => sage.miller@colorado.edu
+    [FIRSTNAME] => Sage
+    [LASTNAME] => Miller
+    [STREET] => 55 Baker Road 
+    [CITY] => Livingston
+    [STATE] => NJ
+    [ZIP] => 07039
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-15-2014 @ 14:56:46 - Response TIMESTAMP=2014%2d12%2d15T21%3a56%3a46Z&CORRELATIONID=26e7e14c5fe3&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=0RD30682FF025093X
+12-15-2014 @ 14:56:46 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-15T21:56:46Z
+    [CORRELATIONID] => 26e7e14c5fe3
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 0RD30682FF025093X
+)
+
+12-15-2014 @ 16:38:10 - Processing order #54637
+12-15-2014 @ 16:38:10 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 128.138.65.178
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 012018
+    [CVV2] => ****
+    [EMAIL] => perri.baker@colorado.edu
+    [FIRSTNAME] => Perri
+    [LASTNAME] => Baker
+    [STREET] => 23 bradish lane 
+    [CITY] => Bay shore
+    [STATE] => NY
+    [ZIP] => 11707
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-15-2014 @ 16:38:13 - Response TIMESTAMP=2014%2d12%2d15T23%3a38%3a13Z&CORRELATIONID=1329c5b6fe7f&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=N&CVV2MATCH=M&TRANSACTIONID=6PT068804B943594C
+12-15-2014 @ 16:38:13 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-15T23:38:13Z
+    [CORRELATIONID] => 1329c5b6fe7f
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => N
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6PT068804B943594C
+)
+
+12-16-2014 @ 08:24:57 - Processing order #54661
+12-16-2014 @ 08:24:57 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 76.120.71.154
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => kdulin05@aol.com
+    [FIRSTNAME] => Kelly
+    [LASTNAME] => Dulin
+    [STREET] => 8449 Greenwood Drive 
+    [CITY] => Longmont
+    [STATE] => CO
+    [ZIP] => 80503
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-16-2014 @ 08:25:01 - Response TIMESTAMP=2014%2d12%2d16T15%3a25%3a01Z&CORRELATIONID=81bae7d97e241&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=2D191920J8877003R
+12-16-2014 @ 08:25:01 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-16T15:25:01Z
+    [CORRELATIONID] => 81bae7d97e241
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2D191920J8877003R
+)
+
+12-16-2014 @ 15:59:49 - Processing order #54694
+12-16-2014 @ 15:59:49 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.167.65
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => sage.miller@colorado.edu
+    [FIRSTNAME] => Sage
+    [LASTNAME] => Miller
+    [STREET] => 55 Baker Road 
+    [CITY] => Livingston
+    [STATE] => NJ
+    [ZIP] => 07039
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-16-2014 @ 15:59:52 - Response TIMESTAMP=2014%2d12%2d16T22%3a59%3a52Z&CORRELATIONID=87ae664e2adfb&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=9KV94616JA078133H
+12-16-2014 @ 15:59:52 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-16T22:59:52Z
+    [CORRELATIONID] => 87ae664e2adfb
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9KV94616JA078133H
+)
+
+12-17-2014 @ 20:14:07 - Processing order #54740
+12-17-2014 @ 20:14:07 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 24.9.62.148
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => susan@lvh3.net
+    [FIRSTNAME] => Susan
+    [LASTNAME] => Hanson
+    [STREET] => 1750 30th St #229 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80301
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-17-2014 @ 20:14:09 - Response TIMESTAMP=2014%2d12%2d18T03%3a14%3a09Z&CORRELATIONID=e0c382e49deae&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=6WK504204N427491F
+12-17-2014 @ 20:14:09 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-18T03:14:09Z
+    [CORRELATIONID] => e0c382e49deae
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6WK504204N427491F
+)
+
+12-18-2014 @ 10:21:46 - Processing order #54747
+12-18-2014 @ 10:21:46 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.70.204.197
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => erikapeterson21@gmail.com
+    [FIRSTNAME] => erika
+    [LASTNAME] => peterson
+    [STREET] => 683 Rinpoche Ln. 
+    [CITY] => Oregon
+    [STATE] => WI
+    [ZIP] => 53575
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-18-2014 @ 10:21:49 - Response TIMESTAMP=2014%2d12%2d18T17%3a21%3a49Z&CORRELATIONID=494728b3d9540&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=7G608103R2158010F
+12-18-2014 @ 10:21:49 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-18T17:21:49Z
+    [CORRELATIONID] => 494728b3d9540
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 7G608103R2158010F
+)
+
+12-18-2014 @ 14:06:21 - Processing order #54754
+12-18-2014 @ 14:06:21 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 73.181.18.42
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 102015
+    [CVV2] => ****
+    [EMAIL] => ekolisch@gmail.com
+    [FIRSTNAME] => Erika
+    [LASTNAME] => Kolisch
+    [STREET] => 700 Poplar Ave 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-18-2014 @ 14:06:24 - Response TIMESTAMP=2014%2d12%2d18T21%3a06%3a24Z&CORRELATIONID=3395396c58048&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=3BD103405R0633412
+12-18-2014 @ 14:06:24 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-18T21:06:24Z
+    [CORRELATIONID] => 3395396c58048
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 3BD103405R0633412
+)
+
+12-18-2014 @ 18:42:33 - Processing order #54768
+12-18-2014 @ 18:42:33 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 24.9.61.81
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => meagan.lesko@gmail.com
+    [FIRSTNAME] => Meg
+    [LASTNAME] => Lesko
+    [STREET] => PO Box 675 
+    [CITY] => Locust Valley
+    [STATE] => NY
+    [ZIP] => 11560
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-18-2014 @ 18:42:36 - Response TIMESTAMP=2014%2d12%2d19T01%3a42%3a36Z&CORRELATIONID=892f2791a8d3&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Z&CVV2MATCH=M&TRANSACTIONID=6BN84729W1201354R
+12-18-2014 @ 18:42:36 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-19T01:42:36Z
+    [CORRELATIONID] => 892f2791a8d3
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Z
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 6BN84729W1201354R
+)
+
+12-20-2014 @ 18:24:33 - Processing order #54927
+12-20-2014 @ 18:24:33 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.70.204.197
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => erikapeterson21@gmail.com
+    [FIRSTNAME] => erika
+    [LASTNAME] => peterson
+    [STREET] => 683 Rinpoche Ln. 
+    [CITY] => Oregon
+    [STATE] => WI
+    [ZIP] => 53575
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-20-2014 @ 18:24:35 - Response TIMESTAMP=2014%2d12%2d21T01%3a24%3a35Z&CORRELATIONID=f6817ea86485c&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=3W926614WX879854B
+12-20-2014 @ 18:24:35 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-21T01:24:35Z
+    [CORRELATIONID] => f6817ea86485c
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 3W926614WX879854B
+)
+
+12-23-2014 @ 08:41:56 - Processing order #56056
+12-23-2014 @ 08:41:56 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 12.216.31.162
+    [AMT] => 40
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => holly.traut@gmail.com
+    [FIRSTNAME] => Holly
+    [LASTNAME] => Traut
+    [STREET] => 2900 Wyandot St Unit 301
+    [CITY] => Denver
+    [STATE] => CO
+    [ZIP] => 80211
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-23-2014 @ 08:41:59 - Response TIMESTAMP=2014%2d12%2d23T15%3a41%3a59Z&CORRELATIONID=28bc2aa2dd40b&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=40%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=78Y89977GB449140L
+12-23-2014 @ 08:41:59 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-23T15:41:59Z
+    [CORRELATIONID] => 28bc2aa2dd40b
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 40.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 78Y89977GB449140L
+)
+
+12-24-2014 @ 17:00:39 - Processing order #56070
+12-24-2014 @ 17:00:39 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 69.253.44.144
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 022015
+    [CVV2] => ****
+    [EMAIL] => mespivey714@gmail.com
+    [FIRSTNAME] => Molly
+    [LASTNAME] => Spivey
+    [STREET] => 2311 North Dearing St. 
+    [CITY] => Alexandria
+    [STATE] => VA
+    [ZIP] => 22302
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-24-2014 @ 17:00:41 - Response TIMESTAMP=2014%2d12%2d25T00%3a00%3a41Z&CORRELATIONID=6c43a0c87d8c8&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=35C81179837159203
+12-24-2014 @ 17:00:41 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-25T00:00:41Z
+    [CORRELATIONID] => 6c43a0c87d8c8
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 35C81179837159203
+)
+
+12-30-2014 @ 22:54:59 - Processing order #56452
+12-30-2014 @ 22:54:59 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.184.88
+    [AMT] => 255
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 012018
+    [CVV2] => ****
+    [EMAIL] => karen@keepmakingcircles.com
+    [FIRSTNAME] => Karen
+    [LASTNAME] => Fienberg
+    [STREET] => 1155 Atlantis Avenue 
+    [CITY] => Lafayette
+    [STATE] => CO
+    [ZIP] => 80026
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+12-30-2014 @ 22:55:02 - Response TIMESTAMP=2014%2d12%2d31T05%3a55%3a02Z&CORRELATIONID=9fa6dcfe2277a&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=255%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=92P53537XB4748505
+12-30-2014 @ 22:55:02 - Parsed Response Array
+(
+    [TIMESTAMP] => 2014-12-31T05:55:02Z
+    [CORRELATIONID] => 9fa6dcfe2277a
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 255.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 92P53537XB4748505
+)
+
+01-05-2015 @ 14:10:13 - Processing order #58313
+01-05-2015 @ 14:10:13 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 73.34.211.3
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 022017
+    [CVV2] => ****
+    [EMAIL] => lefever.elizabeth@gmail.com
+    [FIRSTNAME] => Elizabeth
+    [LASTNAME] => LeFever
+    [STREET] => 5735 S Depew Cir 
+    [CITY] => Littleton
+    [STATE] => CO
+    [ZIP] => 80123
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-05-2015 @ 14:10:16 - Response TIMESTAMP=2015%2d01%2d05T21%3a10%3a16Z&CORRELATIONID=855d238c8b30&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=26032312EW144492X
+01-05-2015 @ 14:10:16 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-05T21:10:16Z
+    [CORRELATIONID] => 855d238c8b30
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 26032312EW144492X
+)
+
+01-05-2015 @ 16:31:16 - Processing order #58440
+01-05-2015 @ 16:31:16 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 207.173.57.30
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => edavison2@gmail.com
+    [FIRSTNAME] => Eliza
+    [LASTNAME] => Leach
+    [STREET] => 2834 16th Street 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80304
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-05-2015 @ 16:31:19 - Response TIMESTAMP=2015%2d01%2d05T23%3a31%3a19Z&CORRELATIONID=649edfd9eda5f&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=0RL39406L2823532E
+01-05-2015 @ 16:31:19 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-05T23:31:19Z
+    [CORRELATIONID] => 649edfd9eda5f
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 0RL39406L2823532E
+)
+
+01-06-2015 @ 01:24:48 - Processing order #58460
+01-06-2015 @ 01:24:48 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 70.196.211.42
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 122016
+    [CVV2] => ****
+    [EMAIL] => haro1098@colorado.edu
+    [FIRSTNAME] => Hannelore
+    [LASTNAME] => Rolfing
+    [STREET] => 1038 14th Street 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80302
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-06-2015 @ 01:24:48 - Response TIMESTAMP=2015%2d01%2d06T08%3a24%3a48Z&CORRELATIONID=5ad53649a11ce&ACK=Failure&VERSION=59%2e0&BUILD=14107150&L_ERRORCODE0=10527&L_SHORTMESSAGE0=Invalid%20Data&L_LONGMESSAGE0=This%20transaction%20cannot%20be%20processed%2e%20Please%20enter%20a%20valid%20credit%20card%20number%20and%20type%2e&L_SEVERITYCODE0=Error&AMT=180%2e00&CURRENCYCODE=USD
+01-06-2015 @ 01:24:48 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-06T08:24:48Z
+    [CORRELATIONID] => 5ad53649a11ce
+    [ACK] => Failure
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [L_ERRORCODE0] => 10527
+    [L_SHORTMESSAGE0] => Invalid Data
+    [L_LONGMESSAGE0] => This transaction cannot be processed. Please enter a valid credit card number and type.
+    [L_SEVERITYCODE0] => Error
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+)
+
+01-06-2015 @ 01:25:14 - Processing order #58460
+01-06-2015 @ 01:25:14 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 70.196.211.42
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 122016
+    [CVV2] => ****
+    [EMAIL] => haro1098@colorado.edu
+    [FIRSTNAME] => Hannelore
+    [LASTNAME] => Rolfing
+    [STREET] => 1038 14th Street 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80302
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-06-2015 @ 01:25:17 - Response TIMESTAMP=2015%2d01%2d06T08%3a25%3a17Z&CORRELATIONID=e264df74f18d4&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=N&CVV2MATCH=M&TRANSACTIONID=76M29374BR3367318
+01-06-2015 @ 01:25:17 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-06T08:25:17Z
+    [CORRELATIONID] => e264df74f18d4
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => N
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 76M29374BR3367318
+)
+
+01-06-2015 @ 13:57:50 - Processing order #58481
+01-06-2015 @ 13:57:50 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 64.58.13.110
+    [AMT] => 40
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092018
+    [CVV2] => ****
+    [EMAIL] => lexi.norton@gmail.com
+    [FIRSTNAME] => Alexandra
+    [LASTNAME] => Norton
+    [STREET] => 545 West Road 
+    [CITY] => New Canaan
+    [STATE] => CT
+    [ZIP] => 06840
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-06-2015 @ 13:57:54 - Response TIMESTAMP=2015%2d01%2d06T20%3a57%3a54Z&CORRELATIONID=d38c83248823&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=40%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=9WG04691JL539471W
+01-06-2015 @ 13:57:54 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-06T20:57:54Z
+    [CORRELATIONID] => d38c83248823
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 40.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9WG04691JL539471W
+)
+
+01-06-2015 @ 16:52:04 - Processing order #58490
+01-06-2015 @ 16:52:04 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 76.120.64.143
+    [AMT] => 95
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 032017
+    [CVV2] => ****
+    [EMAIL] => libstermama@yahoo.com
+    [FIRSTNAME] => libby
+    [LASTNAME] => crouch
+    [STREET] => 7143 old post road 
+    [CITY] => boulder
+    [STATE] => CO
+    [ZIP] => 80301
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-06-2015 @ 16:52:06 - Response TIMESTAMP=2015%2d01%2d06T23%3a52%3a06Z&CORRELATIONID=7af596799ad46&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=95%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=2VV078547Y632345A
+01-06-2015 @ 16:52:06 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-06T23:52:06Z
+    [CORRELATIONID] => 7af596799ad46
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 95.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 2VV078547Y632345A
+)
+
+01-07-2015 @ 12:13:46 - Processing order #58519
+01-07-2015 @ 12:13:46 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 98.245.163.210
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 102015
+    [CVV2] => ****
+    [EMAIL] => dianedicooper@aol.com
+    [FIRSTNAME] => Diane
+    [LASTNAME] => Cooper
+    [STREET] => 8663 Hollyhock Lane 
+    [CITY] => Lafayette
+    [STATE] => CO
+    [ZIP] => 80026
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-07-2015 @ 12:13:49 - Response TIMESTAMP=2015%2d01%2d07T19%3a13%3a49Z&CORRELATIONID=fe12552915d35&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=85L97801PB570151M
+01-07-2015 @ 12:13:49 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-07T19:13:49Z
+    [CORRELATIONID] => fe12552915d35
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 85L97801PB570151M
+)
+
+01-07-2015 @ 17:41:00 - Processing order #58543
+01-07-2015 @ 17:41:00 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.70.204.197
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => erikapeterson21@gmail.com
+    [FIRSTNAME] => erika
+    [LASTNAME] => peterson
+    [STREET] => 683 Rinpoche Ln. 
+    [CITY] => Oregon
+    [STATE] => WI
+    [ZIP] => 53575
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-07-2015 @ 17:41:03 - Response TIMESTAMP=2015%2d01%2d08T00%3a41%3a03Z&CORRELATIONID=1ee63b02d81a7&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=35Y39706HA597860D
+01-07-2015 @ 17:41:03 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-08T00:41:03Z
+    [CORRELATIONID] => 1ee63b02d81a7
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 35Y39706HA597860D
+)
+
+01-08-2015 @ 16:34:34 - Processing order #58584
+01-08-2015 @ 16:34:34 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.70.204.197
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => erikapeterson21@gmail.com
+    [FIRSTNAME] => erika
+    [LASTNAME] => peterson
+    [STREET] => 683 Rinpoche Ln. 
+    [CITY] => Oregon
+    [STATE] => WI
+    [ZIP] => 53575
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-08-2015 @ 16:35:45 - Error Operation timed out after 70000 milliseconds with 0 bytes received
+01-08-2015 @ 16:36:31 - Processing order #58584
+01-08-2015 @ 16:36:31 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 75.70.204.197
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 062016
+    [CVV2] => ****
+    [EMAIL] => erikapeterson21@gmail.com
+    [FIRSTNAME] => erika
+    [LASTNAME] => peterson
+    [STREET] => 683 Rinpoche Ln. 
+    [CITY] => Oregon
+    [STATE] => WI
+    [ZIP] => 53575
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-08-2015 @ 16:36:34 - Response TIMESTAMP=2015%2d01%2d08T23%3a36%3a34Z&CORRELATIONID=1655224deb2c5&ACK=Success&VERSION=59%2e0&BUILD=14107150&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=1SF127856P913680L
+01-08-2015 @ 16:36:34 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-08T23:36:34Z
+    [CORRELATIONID] => 1655224deb2c5
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14107150
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 1SF127856P913680L
+)
+
+01-09-2015 @ 10:07:47 - Processing order #58834
+01-09-2015 @ 10:07:47 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 71.196.168.56
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 032017
+    [CVV2] => ****
+    [EMAIL] => emilygarrison@msn.com
+    [FIRSTNAME] => Emily
+    [LASTNAME] => Garrison
+    [STREET] => 8633 Gladiola Circle United States
+    [CITY] => Arvada
+    [STATE] => CO
+    [ZIP] => 80005
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-09-2015 @ 10:07:51 - Response TIMESTAMP=2015%2d01%2d09T17%3a07%3a51Z&CORRELATIONID=4ad32797715f2&ACK=Success&VERSION=59%2e0&BUILD=14726230&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=69631138J71938924
+01-09-2015 @ 10:07:51 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-09T17:07:51Z
+    [CORRELATIONID] => 4ad32797715f2
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14726230
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 69631138J71938924
+)
+
+01-09-2015 @ 13:40:13 - Processing order #58844
+01-09-2015 @ 13:40:13 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 199.255.44.5
+    [AMT] => 180
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 092017
+    [CVV2] => ****
+    [EMAIL] => glenndalbert@comcast.net
+    [FIRSTNAME] => Glenn
+    [LASTNAME] => Albert
+    [STREET] => 2144 Indian Peaks Circle 
+    [CITY] => Longmont
+    [STATE] => CO
+    [ZIP] => 80504
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-09-2015 @ 13:40:16 - Response TIMESTAMP=2015%2d01%2d09T20%3a40%3a16Z&CORRELATIONID=b05d4aceeee83&ACK=Success&VERSION=59%2e0&BUILD=14726230&AMT=180%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=92T07312ER050905K
+01-09-2015 @ 13:40:16 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-09T20:40:16Z
+    [CORRELATIONID] => b05d4aceeee83
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14726230
+    [AMT] => 180.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 92T07312ER050905K
+)
+
+01-09-2015 @ 14:40:32 - Processing order #58849
+01-09-2015 @ 14:40:32 - Do payment request Array
+(
+    [VERSION] => 59.0
+    [SIGNATURE] => AGm18xuAtF6dlmLY5CHxZfCdgawBAJLnY0-rbDBSMqQL8T5Ob29xlbrN
+    [USER] => hilary_api1.beatcycle.com
+    [PWD] => FS38XWURXKYBX92V
+    [METHOD] => DoDirectPayment
+    [PAYMENTACTION] => Sale
+    [IPADDRESS] => 71.56.236.213
+    [AMT] => 20
+    [CURRENCYCODE] => USD
+    [CREDITCARDTYPE] => 
+    [ACCT] => ****
+    [EXPDATE] => 112015
+    [CVV2] => ****
+    [EMAIL] => myriahconroy@gmail.com
+    [FIRSTNAME] => Myriah
+    [LASTNAME] => Sullivan Conroy
+    [STREET] => 1709 Spruce Street 
+    [CITY] => Boulder
+    [STATE] => CO
+    [ZIP] => 80302
+    [COUNTRYCODE] => US
+    [SHIPTONAME] =>  
+    [SHIPTOSTREET] => 
+    [SHIPTOSTREET2] => 
+    [SHIPTOCITY] => 
+    [SHIPTOSTATE] => 
+    [SHIPTOCOUNTRYCODE] => 
+    [SHIPTOZIP] => 
+    [BUTTONSOURCE] => WooThemes_Cart
+)
+
+01-09-2015 @ 14:40:36 - Response TIMESTAMP=2015%2d01%2d09T21%3a40%3a35Z&CORRELATIONID=79140ccb51b00&ACK=Success&VERSION=59%2e0&BUILD=14726230&AMT=20%2e00&CURRENCYCODE=USD&AVSCODE=Y&CVV2MATCH=M&TRANSACTIONID=9UF48024UK260563W
+01-09-2015 @ 14:40:36 - Parsed Response Array
+(
+    [TIMESTAMP] => 2015-01-09T21:40:35Z
+    [CORRELATIONID] => 79140ccb51b00
+    [ACK] => Success
+    [VERSION] => 59.0
+    [BUILD] => 14726230
+    [AMT] => 20.00
+    [CURRENCYCODE] => USD
+    [AVSCODE] => Y
+    [CVV2MATCH] => M
+    [TRANSACTIONID] => 9UF48024UK260563W
+)
+
