@@ -33160,3 +33160,2614 @@
 )
 
 01-09-2015 @ 14:40:40 - Received valid response from PayPal
+01-09-2015 @ 15:44:34 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-09-2015 @ 15:44:34 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [mc_gross] => 20.00
+            [protection_eligibility] => Ineligible
+            [payer_id] => V4W4TGKH4JSNN
+            [tax] => 0.00
+            [payment_date] => 14:44:29 Jan 09, 2015 PST
+            [payment_status] => Completed
+            [charset] => windows-1252
+            [first_name] => Sarah
+            [mc_fee] => 0.70
+            [notify_version] => 3.8
+            [custom] => 
+            [payer_status] => unverified
+            [business] => hilary@beatcycle.com
+            [quantity] => 1
+            [verify_sign] => Aa9gDITANtEBc67CE1LuUcln2KiXAYD413hl0lg5nR.teiB.ibi5I09N
+            [payer_email] => kdulin6@aol.com
+            [txn_id] => 23193237HR873403R
+            [payment_type] => instant
+            [last_name] => Dulin
+            [receiver_email] => hilary@beatcycle.com
+            [payment_fee] => 0.70
+            [receiver_id] => 8ZLF9JXR7VYVC
+            [txn_type] => web_accept
+            [item_name] => 
+            [mc_currency] => USD
+            [item_number] => 
+            [residence_country] => US
+            [receipt_id] => 0557-9240-1229-9903
+            [handling_amount] => 0.00
+            [transaction_subject] => 
+            [payment_gross] => 20.00
+            [shipping] => 0.00
+            [ipn_track_id] => a5a330b4d9f1d
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-09-2015 @ 15:44:34 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-origin-www.paypal.com
+            [date] => Fri, 09 Jan 2015 22:44:34 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=EtVjptJNgUe6cUT1R1aXbQY7fnPtWXTIiTpaS6dd18H05Zq1LmKzYxagDkTtuheXexUVy9kwW4HE6yotKuoGgm14tvRjsko0p4BnWireVJz3iqRB53vJI7J76WqWqMSUhDMLIE7j6Vq6ik1kulaTPONztn6QtFlJzvWR3KgQRXaPB1k0dqLwSPrNXc1BTMHdd4rrO4Hp5L_5nRt9BSlC7bSZdEmlDVhGrEwVDxXz0Qk66AhWEcRWxpVX9r8yhaXThtOa9W7Y5X3zF7z7xIAw55H8kEQnjcjUIvbFHklceR2orXTeuRoAiW6YcNJQf2p7Z0FbO4jGC9ieNweWMp7ILN5J-M6sCSDoNQOa_eA959fSzQY-nDQSMiKYkkw_lr8d0y2MyWfWgaWQhwvdn9uTZCcocyeaneXfvvKetY-jB6vwts72aedyk5tjQOO; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Mon, 06-Jan-2025 22:44:34 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Sun, 08-Jan-2017 22:44:34 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.16.0.14.1420843474264368; path=/; expires=Sun, 01-Jan-45 22:44:34 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3529093204; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.16.0.11.1420843474258101; path=/; expires=Sun, 01-Jan-45 22:44:34 GMT
+                    [8] => AKDC=slc-origin-www.paypal.com; expires=Fri, 09-Jan-2015 23:14:34 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => EtVjptJNgUe6cUT1R1aXbQY7fnPtWXTIiTpaS6dd18H05Zq1LmKzYxagDkTtuheXexUVy9kwW4HE6yotKuoGgm14tvRjsko0p4BnWireVJz3iqRB53vJI7J76WqWqMSUhDMLIE7j6Vq6ik1kulaTPONztn6QtFlJzvWR3KgQRXaPB1k0dqLwSPrNXc1BTMHdd4rrO4Hp5L_5nRt9BSlC7bSZdEmlDVhGrEwVDxXz0Qk66AhWEcRWxpVX9r8yhaXThtOa9W7Y5X3zF7z7xIAw55H8kEQnjcjUIvbFHklceR2orXTeuRoAiW6YcNJQf2p7Z0FbO4jGC9ieNweWMp7ILN5J-M6sCSDoNQOa_eA959fSzQY-nDQSMiKYkkw_lr8d0y2MyWfWgaWQhwvdn9uTZCcocyeaneXfvvKetY-jB6vwts72aedyk5tjQOO
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736203474
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1483915474
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.14.1420843474264368
+                    [expires] => 2366923474
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE9.WEB.1&silo_version=880&app=slingshot&TIME=3529093204
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.11.1420843474258101
+                    [expires] => 2366923474
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-origin-www.paypal.com
+                    [expires] => 1420845274
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-09-2015 @ 15:44:34 - Received valid response from PayPal
+01-10-2015 @ 16:43:49 - Generating payment form for order #58899. Notify URL: http://beatcycle.com/wc-api/WC_Gateway_Paypal/
+01-10-2015 @ 21:18:33 - Generating payment form for order #58907. Notify URL: http://beatcycle.com/wc-api/WC_Gateway_Paypal/
+01-10-2015 @ 21:25:32 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-10-2015 @ 21:25:32 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [mc_gross] => 20.00
+            [protection_eligibility] => Ineligible
+            [payer_id] => PQVCKHU367J28
+            [tax] => 0.00
+            [payment_date] => 20:25:29 Jan 10, 2015 PST
+            [payment_status] => Completed
+            [charset] => windows-1252
+            [first_name] => Kristin
+            [mc_fee] => 0.88
+            [notify_version] => 3.8
+            [custom] => 
+            [payer_status] => unverified
+            [business] => hilary@beatcycle.com
+            [quantity] => 1
+            [verify_sign] => AHtw1fkU9W8YcamtbeiwQVFr4uVYAKvZxZoS-p8wxjUjhQexcZdhDs9N
+            [payer_email] => mccorkl@gmail.com
+            [txn_id] => 25B23688YD909270C
+            [payment_type] => instant
+            [last_name] => McCormick
+            [receiver_email] => hilary@beatcycle.com
+            [payment_fee] => 0.88
+            [receiver_id] => 8ZLF9JXR7VYVC
+            [txn_type] => web_accept
+            [item_name] => 
+            [mc_currency] => USD
+            [item_number] => 
+            [residence_country] => US
+            [receipt_id] => 3444-1803-6901-3352
+            [handling_amount] => 0.00
+            [transaction_subject] => 
+            [payment_gross] => 20.00
+            [shipping] => 0.00
+            [ipn_track_id] => f69b267295879
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-10-2015 @ 21:25:33 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-origin-www.paypal.com
+            [date] => Sun, 11 Jan 2015 04:25:33 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=L563_I3qoSSEgd5WlK49DCjycQFGiDofTRbM4b9Ng1Uqjq2woaJXmqOfvxdIWWnDSGaJeZf9D5vD2wY118T5N3yiUikn8Q68YCSitlxAFeLUzVea0SVbmPH0HaENLbspm9NZn1SwDlx82Nl2kRKu4iBGinpxA26-or8svLpqSQ3w-DRKbjAD6aoIvYo5XH9tr9Ywx7jOAjxYDNp3SZI8VoWI8PqETwd3fLdTAqItyMhw1xfCuG-EYw294L_KKfctaLaUzbDfNL6bwAnByEIq93TcBJuwoFIRhGh_RwzsDVqjgwDwoIHEkUfB1NF5Tyf2TcRuPLVkWlPoKCf61W-JDGAwNSEQ2otu0CXRaH-9XsxHrC1hChoIe3ioUZTxWzmpOuAx-oQKhQY8mbpB17NeswWEb9ao5djnBz4ip5_8MNv8mHCXdTg6jxE9Bvm; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Wed, 08-Jan-2025 04:25:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Tue, 10-Jan-2017 04:25:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.16.0.14.1420950332621361; path=/; expires=Tue, 03-Jan-45 04:25:32 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D1023127892; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.16.0.11.1420950332613655; path=/; expires=Tue, 03-Jan-45 04:25:32 GMT
+                    [8] => AKDC=slc-origin-www.paypal.com; expires=Sun, 11-Jan-2015 04:55:33 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => L563_I3qoSSEgd5WlK49DCjycQFGiDofTRbM4b9Ng1Uqjq2woaJXmqOfvxdIWWnDSGaJeZf9D5vD2wY118T5N3yiUikn8Q68YCSitlxAFeLUzVea0SVbmPH0HaENLbspm9NZn1SwDlx82Nl2kRKu4iBGinpxA26-or8svLpqSQ3w-DRKbjAD6aoIvYo5XH9tr9Ywx7jOAjxYDNp3SZI8VoWI8PqETwd3fLdTAqItyMhw1xfCuG-EYw294L_KKfctaLaUzbDfNL6bwAnByEIq93TcBJuwoFIRhGh_RwzsDVqjgwDwoIHEkUfB1NF5Tyf2TcRuPLVkWlPoKCf61W-JDGAwNSEQ2otu0CXRaH-9XsxHrC1hChoIe3ioUZTxWzmpOuAx-oQKhQY8mbpB17NeswWEb9ao5djnBz4ip5_8MNv8mHCXdTg6jxE9Bvm
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736310332
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484022332
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.14.1420950332621361
+                    [expires] => 2367030332
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE9.WEB.1&silo_version=880&app=slingshot&TIME=1023127892
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.11.1420950332613655
+                    [expires] => 2367030332
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-origin-www.paypal.com
+                    [expires] => 1420952133
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-10-2015 @ 21:25:33 - Received valid response from PayPal
+01-11-2015 @ 09:17:27 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-11-2015 @ 09:17:27 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [mc_gross] => 20.00
+            [protection_eligibility] => Ineligible
+            [payer_id] => R5X9FCMR5LM5L
+            [tax] => 0.00
+            [payment_date] => 08:17:20 Jan 11, 2015 PST
+            [payment_status] => Completed
+            [charset] => windows-1252
+            [first_name] => Adea
+            [mc_fee] => 0.88
+            [notify_version] => 3.8
+            [custom] => 
+            [payer_status] => unverified
+            [business] => hilary@beatcycle.com
+            [quantity] => 1
+            [verify_sign] => A39FCPOSUnh-g9pqRg2HQNbzKvI6A5VwOd2rft4CwVVhB9NFFGa4uy56
+            [payer_email] => adeafg@gmail.com
+            [txn_id] => 56Y4895398743950A
+            [payment_type] => instant
+            [last_name] => Guldi
+            [receiver_email] => hilary@beatcycle.com
+            [payment_fee] => 0.88
+            [receiver_id] => 8ZLF9JXR7VYVC
+            [txn_type] => web_accept
+            [item_name] => 
+            [mc_currency] => USD
+            [item_number] => 
+            [residence_country] => US
+            [receipt_id] => 4664-5972-0559-8380
+            [handling_amount] => 0.00
+            [transaction_subject] => 
+            [payment_gross] => 20.00
+            [shipping] => 0.00
+            [ipn_track_id] => bde7a4356b82a
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-11-2015 @ 09:17:27 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-a-origin-www-1.paypal.com
+            [date] => Sun, 11 Jan 2015 16:17:27 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=CeFsjoKVZDuIrWd_2mIrm9fPT9aa9ARalBkfCtz3epxMpbT6rBh4w7FGfMxUyWrkvZA7sDhTD1SNKPwY2gWu5WNMc4oe2WSahJnAG-z5js9TIr-Fe_QXEE-hp0agKDQgyFf-Oueyrtna7D4QXbRHB2O96MqftI-I5gYmtYZZnyF3aZ_nZp6tkeAACKfUYCAnvYa0xgKBKM52kmuB2L0JaGFKjH_YJnYK4t24FRScnjFiBIOtx2QIsv87OfFgYy7Q_XvXytYerPlwohYjbAiODyqot5kys3cgh1ZnxLmMsoCuQDjHY_4lTerO-B6L_ngjU0iKwf8TzEFmcKKw5v-qqTHpm-HYtmoTNA5jRW8RqiEsbWkNuZTUryEABcgDoQVWGD5blUZwU7b4f-2Lq2CVhxcE-x5fU73ipAOIXMANB7v9f_dHxZYRBlBfuWO; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Wed, 08-Jan-2025 16:17:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Tue, 10-Jan-2017 16:17:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.73.8.137.1420993047597773; path=/; expires=Tue, 03-Jan-45 16:17:27 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D396538452; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.73.8.35.1420993047585115; path=/; expires=Tue, 03-Jan-45 16:17:27 GMT
+                    [8] => AKDC=slc-a-origin-www-1.paypal.com; expires=Sun, 11-Jan-2015 16:47:27 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => CeFsjoKVZDuIrWd_2mIrm9fPT9aa9ARalBkfCtz3epxMpbT6rBh4w7FGfMxUyWrkvZA7sDhTD1SNKPwY2gWu5WNMc4oe2WSahJnAG-z5js9TIr-Fe_QXEE-hp0agKDQgyFf-Oueyrtna7D4QXbRHB2O96MqftI-I5gYmtYZZnyF3aZ_nZp6tkeAACKfUYCAnvYa0xgKBKM52kmuB2L0JaGFKjH_YJnYK4t24FRScnjFiBIOtx2QIsv87OfFgYy7Q_XvXytYerPlwohYjbAiODyqot5kys3cgh1ZnxLmMsoCuQDjHY_4lTerO-B6L_ngjU0iKwf8TzEFmcKKw5v-qqTHpm-HYtmoTNA5jRW8RqiEsbWkNuZTUryEABcgDoQVWGD5blUZwU7b4f-2Lq2CVhxcE-x5fU73ipAOIXMANB7v9f_dHxZYRBlBfuWO
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736353047
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484065047
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.137.1420993047597773
+                    [expires] => 2367073047
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE5.WEB.1&silo_version=880&app=slingshot&TIME=396538452
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.35.1420993047585115
+                    [expires] => 2367073047
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-a-origin-www-1.paypal.com
+                    [expires] => 1420994847
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-11-2015 @ 09:17:27 - Received valid response from PayPal
+01-11-2015 @ 12:10:05 - Generating payment form for order #58923. Notify URL: http://beatcycle.com/wc-api/WC_Gateway_Paypal/
+01-11-2015 @ 12:10:52 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-11-2015 @ 12:10:52 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [transaction_subject] => Monthly Subscription
+            [payment_date] => 11:10:32 Jan 11, 2015 PST
+            [txn_type] => subscr_payment
+            [subscr_id] => I-1S3HY77KSVG2
+            [last_name] => Stefanacci
+            [residence_country] => US
+            [item_name] => Monthly Subscription
+            [payment_gross] => 160.00
+            [mc_currency] => USD
+            [business] => hilary@beatcycle.com
+            [payment_type] => instant
+            [protection_eligibility] => Ineligible
+            [verify_sign] => AnbZ21hmRMPEdOhwOAtJ0sHoTnERAKUroMbnHuhiDKu5N3c3RxkbyO1R
+            [payer_status] => unverified
+            [payer_email] => most1884@colorado.edu
+            [txn_id] => 9BA862745R0346905
+            [receiver_email] => hilary@beatcycle.com
+            [first_name] => Morgan
+            [invoice] => WC-58923
+            [payer_id] => P69HJAADY7USN
+            [receiver_id] => 8ZLF9JXR7VYVC
+            [payment_status] => Completed
+            [payment_fee] => 4.94
+            [mc_fee] => 4.94
+            [mc_gross] => 160.00
+            [custom] => a:2:{i:0;i:58923;i:1;s:22:"wc_order_54b2ca8d141a5";}
+            [charset] => windows-1252
+            [notify_version] => 3.8
+            [ipn_track_id] => dc2e3866a1b41
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-11-2015 @ 12:10:52 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-origin-www.paypal.com
+            [date] => Sun, 11 Jan 2015 19:10:52 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=VIYMf0EH54SYfInEmcjJW99pwQmmr0lEi8BNsOtyoXgPtzfASXIoDIBRvhT2QHtx6AY6CZO-IC_rJ9AyOAqqoDDAVOg2boJv_us-ou0yggqytePZEcXggZJUi2A7vSPEt5COgip0BOSOLaNQT-Ws9-h7th4nl0ZNg-6RjcjGo9A9TiOJ8_crduPuV_HYXWdiaAmidOI0yWBFGC8QRxPgyokx1nr2pnlZ_qjv1buoQLZfMl9hOACrMYNBPYgMXjhpioGkOdSvoFu2ukZNvE1UswlMVd7C3h7lJovXmR2DqOQYq4MhwA2GfacFVh6DPzvb7XaCemyzP4kIDJQa3FjlLwUT5oC6-vOJ6CA5lun997eVBNiWS5l-qB2sLaqB33LOC6EBIy9bka7wX9HjNFHe16TQEEhenShd4j9W7eZWrAjyEhEqynSbwwTu56K; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Wed, 08-Jan-2025 19:10:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Tue, 10-Jan-2017 19:10:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.16.0.14.1421003452465446; path=/; expires=Tue, 03-Jan-45 19:10:52 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3167400532; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.16.0.11.1421003452458730; path=/; expires=Tue, 03-Jan-45 19:10:52 GMT
+                    [8] => AKDC=slc-origin-www.paypal.com; expires=Sun, 11-Jan-2015 19:40:52 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => VIYMf0EH54SYfInEmcjJW99pwQmmr0lEi8BNsOtyoXgPtzfASXIoDIBRvhT2QHtx6AY6CZO-IC_rJ9AyOAqqoDDAVOg2boJv_us-ou0yggqytePZEcXggZJUi2A7vSPEt5COgip0BOSOLaNQT-Ws9-h7th4nl0ZNg-6RjcjGo9A9TiOJ8_crduPuV_HYXWdiaAmidOI0yWBFGC8QRxPgyokx1nr2pnlZ_qjv1buoQLZfMl9hOACrMYNBPYgMXjhpioGkOdSvoFu2ukZNvE1UswlMVd7C3h7lJovXmR2DqOQYq4MhwA2GfacFVh6DPzvb7XaCemyzP4kIDJQa3FjlLwUT5oC6-vOJ6CA5lun997eVBNiWS5l-qB2sLaqB33LOC6EBIy9bka7wX9HjNFHe16TQEEhenShd4j9W7eZWrAjyEhEqynSbwwTu56K
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736363452
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484075452
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.14.1421003452465446
+                    [expires] => 2367083452
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE9.WEB.1&silo_version=880&app=slingshot&TIME=3167400532
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.11.1421003452458730
+                    [expires] => 2367083452
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-origin-www.paypal.com
+                    [expires] => 1421005252
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-11-2015 @ 12:10:52 - Received valid response from PayPal
+01-11-2015 @ 12:10:52 - Subscription Transaction Type: subscr_payment
+01-11-2015 @ 12:10:52 - Subscription transaction details: Array
+(
+    [transaction_subject] => Monthly Subscription
+    [payment_date] => 11:10:32 Jan 11, 2015 PST
+    [txn_type] => subscr_payment
+    [subscr_id] => I-1S3HY77KSVG2
+    [last_name] => Stefanacci
+    [residence_country] => US
+    [item_name] => Monthly Subscription
+    [payment_gross] => 160.00
+    [mc_currency] => USD
+    [business] => hilary@beatcycle.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AnbZ21hmRMPEdOhwOAtJ0sHoTnERAKUroMbnHuhiDKu5N3c3RxkbyO1R
+    [payer_status] => unverified
+    [payer_email] => most1884@colorado.edu
+    [txn_id] => 9BA862745R0346905
+    [receiver_email] => hilary@beatcycle.com
+    [first_name] => Morgan
+    [invoice] => WC-58923
+    [payer_id] => P69HJAADY7USN
+    [receiver_id] => 8ZLF9JXR7VYVC
+    [payment_status] => Completed
+    [payment_fee] => 4.94
+    [mc_fee] => 4.94
+    [mc_gross] => 160.00
+    [custom] => a:2:{i:0;i:58923;i:1;s:22:"wc_order_54b2ca8d141a5";}
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => dc2e3866a1b41
+)
+
+01-11-2015 @ 12:10:53 - IPN subscription payment completed for order 58923
+01-11-2015 @ 12:10:53 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-11-2015 @ 12:10:53 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [txn_type] => subscr_signup
+            [subscr_id] => I-1S3HY77KSVG2
+            [last_name] => Stefanacci
+            [residence_country] => US
+            [mc_currency] => USD
+            [item_name] => Monthly Subscription
+            [business] => hilary@beatcycle.com
+            [amount3] => 160.00
+            [recurring] => 1
+            [verify_sign] => AB9.MqRDQfksX50-JuRhRBBgPjhAA-OBbx2rsz7-EXV1FdP3BKx7jthZ
+            [payer_status] => unverified
+            [payer_email] => most1884@colorado.edu
+            [first_name] => Morgan
+            [receiver_email] => hilary@beatcycle.com
+            [payer_id] => P69HJAADY7USN
+            [invoice] => WC-58923
+            [reattempt] => 1
+            [subscr_date] => 11:10:30 Jan 11, 2015 PST
+            [custom] => a:2:{i:0;i:58923;i:1;s:22:"wc_order_54b2ca8d141a5";}
+            [charset] => windows-1252
+            [notify_version] => 3.8
+            [period3] => 1 M
+            [mc_amount3] => 160.00
+            [ipn_track_id] => dc2e3866a1b41
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-11-2015 @ 12:10:54 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-origin-www.paypal.com
+            [date] => Sun, 11 Jan 2015 19:10:54 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=Vk0wSgOP-wr1X1lxRN2amiLb-7G7jjc8QjwbKV5JTCo3TPzdfyVXnuhZBmfjWRbiXRxYE4fswMNZpmMOkklMGtjaNQ8rLIONs5g-JrLVqsFvPvrPjx54gyNDIPmMfNkMGotSwOPBW9c-begcNfHXX0vtEBKH9Nd7fY2ROw6i0VmHL27x-mzEXl2xUQx__N3Zb4lFO6lIfYZUVESTz5hAVaD20NQKRr8J06qT1kwFU8_xb6y-CnohtvNig7VOUtaCNRcq-Si8ZrTQvcasW7qGfrliN82KvsTOM9TtdsZElW3Syf6G61P-1rEbYgVaM5QxdrWn_emdsTtoLsvSw5FeY7kwXMNi5Fn-FE9nXlKvDVfMRrmju-Q3yvmd5nLlAs4nyrESOz7yxil_kb9utuxhuhVAqGdbg8m1DMLuJwDxg1kf_JiHDQkAlcXeZTq; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Wed, 08-Jan-2025 19:10:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Tue, 10-Jan-2017 19:10:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.16.0.14.1421003453697552; path=/; expires=Tue, 03-Jan-45 19:10:53 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3184177748; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.16.0.11.1421003453691208; path=/; expires=Tue, 03-Jan-45 19:10:53 GMT
+                    [8] => AKDC=slc-origin-www.paypal.com; expires=Sun, 11-Jan-2015 19:40:54 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => Vk0wSgOP-wr1X1lxRN2amiLb-7G7jjc8QjwbKV5JTCo3TPzdfyVXnuhZBmfjWRbiXRxYE4fswMNZpmMOkklMGtjaNQ8rLIONs5g-JrLVqsFvPvrPjx54gyNDIPmMfNkMGotSwOPBW9c-begcNfHXX0vtEBKH9Nd7fY2ROw6i0VmHL27x-mzEXl2xUQx__N3Zb4lFO6lIfYZUVESTz5hAVaD20NQKRr8J06qT1kwFU8_xb6y-CnohtvNig7VOUtaCNRcq-Si8ZrTQvcasW7qGfrliN82KvsTOM9TtdsZElW3Syf6G61P-1rEbYgVaM5QxdrWn_emdsTtoLsvSw5FeY7kwXMNi5Fn-FE9nXlKvDVfMRrmju-Q3yvmd5nLlAs4nyrESOz7yxil_kb9utuxhuhVAqGdbg8m1DMLuJwDxg1kf_JiHDQkAlcXeZTq
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736363453
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484075453
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.14.1421003453697552
+                    [expires] => 2367083453
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE9.WEB.1&silo_version=880&app=slingshot&TIME=3184177748
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.11.1421003453691208
+                    [expires] => 2367083453
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-origin-www.paypal.com
+                    [expires] => 1421005254
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-11-2015 @ 12:10:54 - Received valid response from PayPal
+01-11-2015 @ 12:10:54 - Subscription Transaction Type: subscr_signup
+01-11-2015 @ 12:10:54 - Subscription transaction details: Array
+(
+    [txn_type] => subscr_signup
+    [subscr_id] => I-1S3HY77KSVG2
+    [last_name] => Stefanacci
+    [residence_country] => US
+    [mc_currency] => USD
+    [item_name] => Monthly Subscription
+    [business] => hilary@beatcycle.com
+    [amount3] => 160.00
+    [recurring] => 1
+    [verify_sign] => AB9.MqRDQfksX50-JuRhRBBgPjhAA-OBbx2rsz7-EXV1FdP3BKx7jthZ
+    [payer_status] => unverified
+    [payer_email] => most1884@colorado.edu
+    [first_name] => Morgan
+    [receiver_email] => hilary@beatcycle.com
+    [payer_id] => P69HJAADY7USN
+    [invoice] => WC-58923
+    [reattempt] => 1
+    [subscr_date] => 11:10:30 Jan 11, 2015 PST
+    [custom] => a:2:{i:0;i:58923;i:1;s:22:"wc_order_54b2ca8d141a5";}
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [period3] => 1 M
+    [mc_amount3] => 160.00
+    [ipn_track_id] => dc2e3866a1b41
+)
+
+01-11-2015 @ 12:10:54 - IPN subscription sign up completed for order 58923
+01-11-2015 @ 17:15:26 - Generating payment form for order #58899. Notify URL: http://beatcycle.com/wc-api/WC_Gateway_Paypal/
+01-11-2015 @ 17:19:52 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-11-2015 @ 17:19:52 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [transaction_subject] => Monthly Subscription
+            [payment_date] => 16:19:31 Jan 11, 2015 PST
+            [txn_type] => subscr_payment
+            [subscr_id] => I-T6YFT61WSERD
+            [last_name] => NIles
+            [residence_country] => US
+            [item_name] => Monthly Subscription
+            [payment_gross] => 95.00
+            [mc_currency] => USD
+            [business] => hilary@beatcycle.com
+            [payment_type] => instant
+            [protection_eligibility] => Ineligible
+            [verify_sign] => ANaB8EYaU6SzxcCeRX25HclNXPciAVDUCaPrFLEph7e9EOudSfBGQXb0
+            [payer_status] => unverified
+            [payer_email] => ashley@nilesfamilydentistry.com
+            [txn_id] => 9BP45999R8884794S
+            [receiver_email] => hilary@beatcycle.com
+            [first_name] => Ashley
+            [invoice] => WC-58899
+            [payer_id] => QE4G5SU3JR7T4
+            [receiver_id] => 8ZLF9JXR7VYVC
+            [payment_status] => Completed
+            [payment_fee] => 3.06
+            [mc_fee] => 3.06
+            [mc_gross] => 95.00
+            [custom] => a:2:{i:0;i:58899;i:1;s:22:"wc_order_54b3121e1b2e2";}
+            [charset] => windows-1252
+            [notify_version] => 3.8
+            [ipn_track_id] => 138a4b437a8b9
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-11-2015 @ 17:19:53 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-b-origin-www-2.paypal.com
+            [date] => Mon, 12 Jan 2015 00:19:53 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=3FjxHaUh9BHgyeSv6fqBZtR5Tvz7UH2BN9zqouGRKuyKY7yczRQqJI21htOeHYvbwJMKBgJB2ewyLab5BSU45101DXl5VhSWL763S8Pcf1gaHib3QSmT_e0CTIbpIde9c19x_d2m33Im57t-VmARtDr4bfPMv2u5R7ZdJ9mkNWaJgD1o5IVqFdfkBjqGpx7Jolia_dAt3vNOv-xgd9iJCG3YXQYZ5ZkaMi6BJB88hcOURY1EDHbjR_LsrAszG_DZCbkB1xxU-p-LUXYoyS_mGRG7fZ4oyhnG9L7sJyekHf8XbFjYmVuUxWGUJ8nYmOdJ4fQh7I78VWz0ERPqwYixM4bHTNuGyACg3DVvtlf_nBIZttT_4xHFjlUCUuXHj7Gqe7KEILeU9dQxRNwMuQ3yk-JqVhFXpuODURaF-VnXjcdOzaHKQYighFklDrS; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Thu, 09-Jan-2025 00:19:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Wed, 11-Jan-2017 00:19:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.74.8.134.1421021993169482; path=/; expires=Wed, 04-Jan-45 00:19:53 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D689156948; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.74.8.54.1421021993153934; path=/; expires=Wed, 04-Jan-45 00:19:53 GMT
+                    [8] => AKDC=slc-b-origin-www-2.paypal.com; expires=Mon, 12-Jan-2015 00:49:53 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => 3FjxHaUh9BHgyeSv6fqBZtR5Tvz7UH2BN9zqouGRKuyKY7yczRQqJI21htOeHYvbwJMKBgJB2ewyLab5BSU45101DXl5VhSWL763S8Pcf1gaHib3QSmT_e0CTIbpIde9c19x_d2m33Im57t-VmARtDr4bfPMv2u5R7ZdJ9mkNWaJgD1o5IVqFdfkBjqGpx7Jolia_dAt3vNOv-xgd9iJCG3YXQYZ5ZkaMi6BJB88hcOURY1EDHbjR_LsrAszG_DZCbkB1xxU-p-LUXYoyS_mGRG7fZ4oyhnG9L7sJyekHf8XbFjYmVuUxWGUJ8nYmOdJ4fQh7I78VWz0ERPqwYixM4bHTNuGyACg3DVvtlf_nBIZttT_4xHFjlUCUuXHj7Gqe7KEILeU9dQxRNwMuQ3yk-JqVhFXpuODURaF-VnXjcdOzaHKQYighFklDrS
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736381993
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484093993
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.74.8.134.1421021993169482
+                    [expires] => 2367101993
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE6.WEB.1&silo_version=880&app=slingshot&TIME=689156948
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.74.8.54.1421021993153934
+                    [expires] => 2367101993
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-b-origin-www-2.paypal.com
+                    [expires] => 1421023793
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-11-2015 @ 17:19:53 - Received valid response from PayPal
+01-11-2015 @ 17:19:53 - Subscription Transaction Type: subscr_payment
+01-11-2015 @ 17:19:53 - Subscription transaction details: Array
+(
+    [transaction_subject] => Monthly Subscription
+    [payment_date] => 16:19:31 Jan 11, 2015 PST
+    [txn_type] => subscr_payment
+    [subscr_id] => I-T6YFT61WSERD
+    [last_name] => NIles
+    [residence_country] => US
+    [item_name] => Monthly Subscription
+    [payment_gross] => 95.00
+    [mc_currency] => USD
+    [business] => hilary@beatcycle.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => ANaB8EYaU6SzxcCeRX25HclNXPciAVDUCaPrFLEph7e9EOudSfBGQXb0
+    [payer_status] => unverified
+    [payer_email] => ashley@nilesfamilydentistry.com
+    [txn_id] => 9BP45999R8884794S
+    [receiver_email] => hilary@beatcycle.com
+    [first_name] => Ashley
+    [invoice] => WC-58899
+    [payer_id] => QE4G5SU3JR7T4
+    [receiver_id] => 8ZLF9JXR7VYVC
+    [payment_status] => Completed
+    [payment_fee] => 3.06
+    [mc_fee] => 3.06
+    [mc_gross] => 95.00
+    [custom] => a:2:{i:0;i:58899;i:1;s:22:"wc_order_54b3121e1b2e2";}
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => 138a4b437a8b9
+)
+
+01-11-2015 @ 17:19:53 - IPN subscription payment completed for order 58899
+01-11-2015 @ 17:19:55 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-11-2015 @ 17:19:55 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [txn_type] => subscr_signup
+            [subscr_id] => I-T6YFT61WSERD
+            [last_name] => NIles
+            [residence_country] => US
+            [mc_currency] => USD
+            [item_name] => Monthly Subscription
+            [amount1] => 95.00
+            [business] => hilary@beatcycle.com
+            [amount3] => 160.00
+            [recurring] => 1
+            [verify_sign] => ACZu8UNHiPfbh6APWa81bAUrRFxSA7YJNpa6S9z3h0yxevMKJ.jIKHyD
+            [payer_status] => unverified
+            [payer_email] => ashley@nilesfamilydentistry.com
+            [first_name] => Ashley
+            [receiver_email] => hilary@beatcycle.com
+            [payer_id] => QE4G5SU3JR7T4
+            [invoice] => WC-58899
+            [reattempt] => 1
+            [subscr_date] => 16:19:30 Jan 11, 2015 PST
+            [custom] => a:2:{i:0;i:58899;i:1;s:22:"wc_order_54b3121e1b2e2";}
+            [charset] => windows-1252
+            [notify_version] => 3.8
+            [period1] => 1 M
+            [mc_amount1] => 95.00
+            [period3] => 1 M
+            [mc_amount3] => 160.00
+            [ipn_track_id] => 138a4b437a8b9
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-11-2015 @ 17:19:55 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-b-origin-www-2.paypal.com
+            [date] => Mon, 12 Jan 2015 00:19:55 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=PU-ZAnQpjBOvpAl4aSqUiyVujHHw_PRPreOKzV1f1mBB0VH-pDvp9cuCI6hIGk0hbc63-j_Moseut_YgRfUQUGgyX3j9957CyfmwlN814_CG6vCU3Zde8LcMtBPqiClgWtqerPEv8dBaCtA8jYXci7Nr43ubBhbwx_fCkeW1ranfsvr5tZn4bHzp0f0x3keyER6bNYWUbeJgUj_1JCe_1zI9Bx_i2rgIGUFG51YA3Y1LbtWOLZLtDeXL5n3QRCIwgZo50p9RVifWaongkoca5wcq9R_e-UNJgUeh-4QYxb_axAJkzMCK3XVsrhbjVtCFwVue7XLcMkc2dE-6YncBc_2eyYyZd-mo32yM4_THD1I474QJt3B8X67q2hpNoa6op9bWqbpyqyo_othqv8zqx69BvJoPJ4RsDFsTe9W7Y8pd52966fSwqSCSV9C; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Thu, 09-Jan-2025 00:19:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Wed, 11-Jan-2017 00:19:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.74.8.134.1421021995326398; path=/; expires=Wed, 04-Jan-45 00:19:55 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D722711380; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.74.8.58.1421021995313523; path=/; expires=Wed, 04-Jan-45 00:19:55 GMT
+                    [8] => AKDC=slc-b-origin-www-2.paypal.com; expires=Mon, 12-Jan-2015 00:49:55 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => PU-ZAnQpjBOvpAl4aSqUiyVujHHw_PRPreOKzV1f1mBB0VH-pDvp9cuCI6hIGk0hbc63-j_Moseut_YgRfUQUGgyX3j9957CyfmwlN814_CG6vCU3Zde8LcMtBPqiClgWtqerPEv8dBaCtA8jYXci7Nr43ubBhbwx_fCkeW1ranfsvr5tZn4bHzp0f0x3keyER6bNYWUbeJgUj_1JCe_1zI9Bx_i2rgIGUFG51YA3Y1LbtWOLZLtDeXL5n3QRCIwgZo50p9RVifWaongkoca5wcq9R_e-UNJgUeh-4QYxb_axAJkzMCK3XVsrhbjVtCFwVue7XLcMkc2dE-6YncBc_2eyYyZd-mo32yM4_THD1I474QJt3B8X67q2hpNoa6op9bWqbpyqyo_othqv8zqx69BvJoPJ4RsDFsTe9W7Y8pd52966fSwqSCSV9C
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736381995
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484093995
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.74.8.134.1421021995326398
+                    [expires] => 2367101995
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE6.WEB.1&silo_version=880&app=slingshot&TIME=722711380
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.74.8.58.1421021995313523
+                    [expires] => 2367101995
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-b-origin-www-2.paypal.com
+                    [expires] => 1421023795
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-11-2015 @ 17:19:55 - Received valid response from PayPal
+01-11-2015 @ 17:19:55 - Subscription Transaction Type: subscr_signup
+01-11-2015 @ 17:19:55 - Subscription transaction details: Array
+(
+    [txn_type] => subscr_signup
+    [subscr_id] => I-T6YFT61WSERD
+    [last_name] => NIles
+    [residence_country] => US
+    [mc_currency] => USD
+    [item_name] => Monthly Subscription
+    [amount1] => 95.00
+    [business] => hilary@beatcycle.com
+    [amount3] => 160.00
+    [recurring] => 1
+    [verify_sign] => ACZu8UNHiPfbh6APWa81bAUrRFxSA7YJNpa6S9z3h0yxevMKJ.jIKHyD
+    [payer_status] => unverified
+    [payer_email] => ashley@nilesfamilydentistry.com
+    [first_name] => Ashley
+    [receiver_email] => hilary@beatcycle.com
+    [payer_id] => QE4G5SU3JR7T4
+    [invoice] => WC-58899
+    [reattempt] => 1
+    [subscr_date] => 16:19:30 Jan 11, 2015 PST
+    [custom] => a:2:{i:0;i:58899;i:1;s:22:"wc_order_54b3121e1b2e2";}
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [period1] => 1 M
+    [mc_amount1] => 95.00
+    [period3] => 1 M
+    [mc_amount3] => 160.00
+    [ipn_track_id] => 138a4b437a8b9
+)
+
+01-11-2015 @ 17:19:55 - IPN subscription sign up completed for order 58899
+01-11-2015 @ 19:20:45 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-11-2015 @ 19:20:45 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [mc_gross] => 180.00
+            [protection_eligibility] => Ineligible
+            [payer_id] => 43NAPJZWLSE28
+            [tax] => 0.00
+            [payment_date] => 18:20:40 Jan 11, 2015 PST
+            [payment_status] => Completed
+            [charset] => windows-1252
+            [first_name] => Joy
+            [mc_fee] => 5.52
+            [notify_version] => 3.8
+            [custom] => 
+            [payer_status] => unverified
+            [business] => hilary@beatcycle.com
+            [quantity] => 1
+            [verify_sign] => AiKZhEEPLJjSIccz.2M.tbyW5YFwAXNjTZi7Fj12Ol39u1u8PPZA1KkV
+            [payer_email] => joylalbert@comcast.net
+            [txn_id] => 21H08191JU300312B
+            [payment_type] => instant
+            [last_name] => Albert
+            [receiver_email] => hilary@beatcycle.com
+            [payment_fee] => 5.52
+            [receiver_id] => 8ZLF9JXR7VYVC
+            [txn_type] => web_accept
+            [item_name] => 
+            [mc_currency] => USD
+            [item_number] => 
+            [residence_country] => US
+            [receipt_id] => 2954-8690-9591-9031
+            [handling_amount] => 0.00
+            [transaction_subject] => 
+            [payment_gross] => 180.00
+            [shipping] => 0.00
+            [ipn_track_id] => 41c7b37dd6174
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-11-2015 @ 19:20:46 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-a-origin-www-1.paypal.com
+            [date] => Mon, 12 Jan 2015 02:20:46 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=HXwcVT1IzTig_FiQC2lEjZobVdoFOfBTSMikgaMKrZJNwCjz7RgpPmwU4u2CMHrww-HJnn5mHCA9GOi5w6XM4zEVdv4XH9cokJ3K3EpCImRfRTm__eznt2ZfnXaLsmcuEnhxlyo7e7RVqmycoeC_M801-z388soTqoR2_NcRJIGCb50lFDAPRZG2hWxWMWn94aph3MgDtzAvUs1L3g-SnWKbcnSffLzYxn9qute4gpHsRfU36QsRGDW1b4LA0qEJw6uRsauRaGYcJO5RO6_p6v7-U61l18uXpGmOO7LhUPeZ851x-JQS1M9oZdUqHF18p-PA96MzaYFyJPte2ZO9Tc6ZyZomKgEMNBmzoXzzYnCV_u6K6nz413uSZ7GYOn_BIV6FrAH7dnhKsHWGtqAhGD2F9UPIBmYhjODOIrqvLas7-585n0M0nEpi-je; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Thu, 09-Jan-2025 02:20:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Wed, 11-Jan-2017 02:20:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.73.8.134.1421029246141594; path=/; expires=Wed, 04-Jan-45 02:20:46 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2117055316; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.73.8.38.1421029246130284; path=/; expires=Wed, 04-Jan-45 02:20:46 GMT
+                    [8] => AKDC=slc-a-origin-www-1.paypal.com; expires=Mon, 12-Jan-2015 02:50:46 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => HXwcVT1IzTig_FiQC2lEjZobVdoFOfBTSMikgaMKrZJNwCjz7RgpPmwU4u2CMHrww-HJnn5mHCA9GOi5w6XM4zEVdv4XH9cokJ3K3EpCImRfRTm__eznt2ZfnXaLsmcuEnhxlyo7e7RVqmycoeC_M801-z388soTqoR2_NcRJIGCb50lFDAPRZG2hWxWMWn94aph3MgDtzAvUs1L3g-SnWKbcnSffLzYxn9qute4gpHsRfU36QsRGDW1b4LA0qEJw6uRsauRaGYcJO5RO6_p6v7-U61l18uXpGmOO7LhUPeZ851x-JQS1M9oZdUqHF18p-PA96MzaYFyJPte2ZO9Tc6ZyZomKgEMNBmzoXzzYnCV_u6K6nz413uSZ7GYOn_BIV6FrAH7dnhKsHWGtqAhGD2F9UPIBmYhjODOIrqvLas7-585n0M0nEpi-je
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736389246
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484101246
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.134.1421029246141594
+                    [expires] => 2367109246
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE5.WEB.1&silo_version=880&app=slingshot&TIME=2117055316
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.38.1421029246130284
+                    [expires] => 2367109246
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-a-origin-www-1.paypal.com
+                    [expires] => 1421031046
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-11-2015 @ 19:20:46 - Received valid response from PayPal
+01-12-2015 @ 09:27:51 - Generating payment form for order #58974. Notify URL: http://beatcycle.com/wc-api/WC_Gateway_Paypal/
+01-12-2015 @ 09:30:42 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-12-2015 @ 09:30:42 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [transaction_subject] => Monthly Subscription
+            [payment_date] => 08:30:28 Jan 12, 2015 PST
+            [txn_type] => subscr_payment
+            [subscr_id] => I-5GEXSY011P4A
+            [last_name] => McCartney
+            [residence_country] => US
+            [item_name] => Monthly Subscription
+            [payment_gross] => 95.00
+            [mc_currency] => USD
+            [business] => hilary@beatcycle.com
+            [payment_type] => instant
+            [protection_eligibility] => Ineligible
+            [verify_sign] => AwyIE8PZQHWmC0d0b6m0NsniTMBFAhjgiynzwHuU6xFgTUVwkV52NwSo
+            [payer_status] => unverified
+            [payer_email] => mccartney0325@gmail.com
+            [txn_id] => 1HW2416876150122X
+            [receiver_email] => hilary@beatcycle.com
+            [first_name] => Ellen
+            [invoice] => WC-58974
+            [payer_id] => F8P53GLXT4GUS
+            [receiver_id] => 8ZLF9JXR7VYVC
+            [payment_status] => Completed
+            [payment_fee] => 3.06
+            [mc_fee] => 3.06
+            [mc_gross] => 95.00
+            [custom] => a:2:{i:0;i:58974;i:1;s:22:"wc_order_54b3f6075b960";}
+            [charset] => windows-1252
+            [notify_version] => 3.8
+            [ipn_track_id] => 5c6f8c5fa6f05
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-12-2015 @ 09:30:43 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-origin-www.paypal.com
+            [date] => Mon, 12 Jan 2015 16:30:43 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=f_oFDNplXh9Ia1w-WZYxOj9xTI8XEv2QlHKYmxoKGl9iPQBA6zkDZBh-F-sXcqOf9OpyjTQAZKb9EpYY2y1u-_iKf-YK3JMg7gmbRULYewLRSAm0XGx06IKxZuPes50OIhj8msXHwKGxKKEvmENxMShlCsNNTrpjOH3PXHxAUnEYXO08lTojfASPGTjX9vcp5ltggDpRrYC3YRoe-gbeZvQs16pib60e9AAafruoE8sauVEKduAjqEcogGQe0imClFJY3JuLZVvk2_d_Dymg89qdgh-uuCfRLrbMH7eYrms2QjQ2qNEGOXyF0YemTWOphKX1wXaZEPWy8bKrTvmxNtwLSYJB9rDV71O1Kv3QMn2FwWqczeJLpqthsgZIqiJeiyj9Rvf4EkmeDb01Q48YMK6OZuSzwDZq95sb2-BbODNcXwWzkKAxW5aub4u; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Thu, 09-Jan-2025 16:30:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Wed, 11-Jan-2017 16:30:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.16.0.14.1421080243060135; path=/; expires=Wed, 04-Jan-45 16:30:43 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3019289428; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.16.0.11.1421080243053319; path=/; expires=Wed, 04-Jan-45 16:30:43 GMT
+                    [8] => AKDC=slc-origin-www.paypal.com; expires=Mon, 12-Jan-2015 17:00:43 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => f_oFDNplXh9Ia1w-WZYxOj9xTI8XEv2QlHKYmxoKGl9iPQBA6zkDZBh-F-sXcqOf9OpyjTQAZKb9EpYY2y1u-_iKf-YK3JMg7gmbRULYewLRSAm0XGx06IKxZuPes50OIhj8msXHwKGxKKEvmENxMShlCsNNTrpjOH3PXHxAUnEYXO08lTojfASPGTjX9vcp5ltggDpRrYC3YRoe-gbeZvQs16pib60e9AAafruoE8sauVEKduAjqEcogGQe0imClFJY3JuLZVvk2_d_Dymg89qdgh-uuCfRLrbMH7eYrms2QjQ2qNEGOXyF0YemTWOphKX1wXaZEPWy8bKrTvmxNtwLSYJB9rDV71O1Kv3QMn2FwWqczeJLpqthsgZIqiJeiyj9Rvf4EkmeDb01Q48YMK6OZuSzwDZq95sb2-BbODNcXwWzkKAxW5aub4u
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736440243
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484152243
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.14.1421080243060135
+                    [expires] => 2367160243
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE9.WEB.1&silo_version=880&app=slingshot&TIME=3019289428
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.11.1421080243053319
+                    [expires] => 2367160243
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-origin-www.paypal.com
+                    [expires] => 1421082043
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-12-2015 @ 09:30:43 - Received valid response from PayPal
+01-12-2015 @ 09:30:43 - Subscription Transaction Type: subscr_payment
+01-12-2015 @ 09:30:43 - Subscription transaction details: Array
+(
+    [transaction_subject] => Monthly Subscription
+    [payment_date] => 08:30:28 Jan 12, 2015 PST
+    [txn_type] => subscr_payment
+    [subscr_id] => I-5GEXSY011P4A
+    [last_name] => McCartney
+    [residence_country] => US
+    [item_name] => Monthly Subscription
+    [payment_gross] => 95.00
+    [mc_currency] => USD
+    [business] => hilary@beatcycle.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AwyIE8PZQHWmC0d0b6m0NsniTMBFAhjgiynzwHuU6xFgTUVwkV52NwSo
+    [payer_status] => unverified
+    [payer_email] => mccartney0325@gmail.com
+    [txn_id] => 1HW2416876150122X
+    [receiver_email] => hilary@beatcycle.com
+    [first_name] => Ellen
+    [invoice] => WC-58974
+    [payer_id] => F8P53GLXT4GUS
+    [receiver_id] => 8ZLF9JXR7VYVC
+    [payment_status] => Completed
+    [payment_fee] => 3.06
+    [mc_fee] => 3.06
+    [mc_gross] => 95.00
+    [custom] => a:2:{i:0;i:58974;i:1;s:22:"wc_order_54b3f6075b960";}
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => 5c6f8c5fa6f05
+)
+
+01-12-2015 @ 09:30:43 - IPN subscription payment completed for order 58974
+01-12-2015 @ 09:30:54 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-12-2015 @ 09:30:54 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [txn_type] => subscr_signup
+            [subscr_id] => I-5GEXSY011P4A
+            [last_name] => McCartney
+            [residence_country] => US
+            [mc_currency] => USD
+            [item_name] => Monthly Subscription
+            [amount1] => 95.00
+            [business] => hilary@beatcycle.com
+            [amount3] => 160.00
+            [recurring] => 1
+            [verify_sign] => ATQwhwj6TKMBBZGRoTufFKBU5XBOApW.YTcPnN89CCUokF0IyvnsnNlV
+            [payer_status] => unverified
+            [payer_email] => mccartney0325@gmail.com
+            [first_name] => Ellen
+            [receiver_email] => hilary@beatcycle.com
+            [payer_id] => F8P53GLXT4GUS
+            [invoice] => WC-58974
+            [reattempt] => 1
+            [subscr_date] => 08:30:27 Jan 12, 2015 PST
+            [custom] => a:2:{i:0;i:58974;i:1;s:22:"wc_order_54b3f6075b960";}
+            [charset] => windows-1252
+            [notify_version] => 3.8
+            [period1] => 1 M
+            [mc_amount1] => 95.00
+            [period3] => 1 M
+            [mc_amount3] => 160.00
+            [ipn_track_id] => 5c6f8c5fa6f05
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-12-2015 @ 09:30:54 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-origin-www.paypal.com
+            [date] => Mon, 12 Jan 2015 16:30:54 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=fojUjy_D4VpuJBBIvI9vA7HdCJ8t8pxq6SiiDD5ZaOojguor05Q8RVDTIC1UnaGLoNP_-grvRp8StsCsW465zIZyQvYbZxUcQ8waY_2scDQszFVGffISjKGWolbsBjEd1zDM7i5SNqy-fTmRBBXSGrpVgmJJA3WhuMK16vrB-_mATHuM-3fziIQTM1tbNGVmWUuoVxLalEJHOfWi3wslJOnv2uKaMGl6vwPVN2CLI431vUGiUGj3rFey8yuPIEtEYS4iGuhpxkGdla6EK3O1zvfaOCyTUX6mYoxvHoimWTrYHR5WfT5qp0e23aaSedcO8iMnCimU568kx8Q2aRi1cvW2W4RRrJJybJU6tSXE-jhjbp7PG5V0EGjXdMxKjkCFCm1PkagNbNpFwzcHI8eN-qIfb0AUIajH-L8mb8Sf1cOnAT3kEn-hKrhD4pe; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Thu, 09-Jan-2025 16:30:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Wed, 11-Jan-2017 16:30:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.16.0.14.1421080254466611; path=/; expires=Wed, 04-Jan-45 16:30:54 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3203838804; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.16.0.11.1421080254459728; path=/; expires=Wed, 04-Jan-45 16:30:54 GMT
+                    [8] => AKDC=slc-origin-www.paypal.com; expires=Mon, 12-Jan-2015 17:00:54 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => fojUjy_D4VpuJBBIvI9vA7HdCJ8t8pxq6SiiDD5ZaOojguor05Q8RVDTIC1UnaGLoNP_-grvRp8StsCsW465zIZyQvYbZxUcQ8waY_2scDQszFVGffISjKGWolbsBjEd1zDM7i5SNqy-fTmRBBXSGrpVgmJJA3WhuMK16vrB-_mATHuM-3fziIQTM1tbNGVmWUuoVxLalEJHOfWi3wslJOnv2uKaMGl6vwPVN2CLI431vUGiUGj3rFey8yuPIEtEYS4iGuhpxkGdla6EK3O1zvfaOCyTUX6mYoxvHoimWTrYHR5WfT5qp0e23aaSedcO8iMnCimU568kx8Q2aRi1cvW2W4RRrJJybJU6tSXE-jhjbp7PG5V0EGjXdMxKjkCFCm1PkagNbNpFwzcHI8eN-qIfb0AUIajH-L8mb8Sf1cOnAT3kEn-hKrhD4pe
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736440254
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484152254
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.14.1421080254466611
+                    [expires] => 2367160254
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE9.WEB.1&silo_version=880&app=slingshot&TIME=3203838804
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.11.1421080254459728
+                    [expires] => 2367160254
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-origin-www.paypal.com
+                    [expires] => 1421082054
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-12-2015 @ 09:30:54 - Received valid response from PayPal
+01-12-2015 @ 09:30:54 - Subscription Transaction Type: subscr_signup
+01-12-2015 @ 09:30:54 - Subscription transaction details: Array
+(
+    [txn_type] => subscr_signup
+    [subscr_id] => I-5GEXSY011P4A
+    [last_name] => McCartney
+    [residence_country] => US
+    [mc_currency] => USD
+    [item_name] => Monthly Subscription
+    [amount1] => 95.00
+    [business] => hilary@beatcycle.com
+    [amount3] => 160.00
+    [recurring] => 1
+    [verify_sign] => ATQwhwj6TKMBBZGRoTufFKBU5XBOApW.YTcPnN89CCUokF0IyvnsnNlV
+    [payer_status] => unverified
+    [payer_email] => mccartney0325@gmail.com
+    [first_name] => Ellen
+    [receiver_email] => hilary@beatcycle.com
+    [payer_id] => F8P53GLXT4GUS
+    [invoice] => WC-58974
+    [reattempt] => 1
+    [subscr_date] => 08:30:27 Jan 12, 2015 PST
+    [custom] => a:2:{i:0;i:58974;i:1;s:22:"wc_order_54b3f6075b960";}
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [period1] => 1 M
+    [mc_amount1] => 95.00
+    [period3] => 1 M
+    [mc_amount3] => 160.00
+    [ipn_track_id] => 5c6f8c5fa6f05
+)
+
+01-12-2015 @ 09:30:54 - IPN subscription sign up completed for order 58974
+01-12-2015 @ 12:12:57 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-12-2015 @ 12:12:57 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [mc_gross] => 95.00
+            [protection_eligibility] => Ineligible
+            [payer_id] => J8ZU7K6WCXEM4
+            [tax] => 0.00
+            [payment_date] => 11:12:43 Jan 12, 2015 PST
+            [payment_status] => Completed
+            [charset] => windows-1252
+            [first_name] => Carter
+            [mc_fee] => 3.06
+            [notify_version] => 3.8
+            [custom] => 
+            [payer_status] => unverified
+            [business] => hilary@beatcycle.com
+            [quantity] => 1
+            [verify_sign] => AOBpBxXXgpSY0GW.3Ct6c4byyfRlAyAAA8-b8a0KkGS9FQ5nrA5dApHS
+            [payer_email] => Lexi.norton@gmail.com
+            [txn_id] => 49C70622D6482292C
+            [payment_type] => instant
+            [last_name] => Norton
+            [receiver_email] => hilary@beatcycle.com
+            [payment_fee] => 3.06
+            [receiver_id] => 8ZLF9JXR7VYVC
+            [txn_type] => web_accept
+            [item_name] => 
+            [mc_currency] => USD
+            [item_number] => 
+            [residence_country] => US
+            [receipt_id] => 2546-5882-2855-1116
+            [handling_amount] => 0.00
+            [transaction_subject] => 
+            [payment_gross] => 95.00
+            [shipping] => 0.00
+            [ipn_track_id] => b5337490a0a9c
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-12-2015 @ 12:12:58 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-b-origin-www-2.paypal.com
+            [date] => Mon, 12 Jan 2015 19:12:58 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=-77yK7Eq1gv85Rw4hicVlGPJAJkpgliZRQQMuVvYEqowGcixabY6uyCyqPSw7qvuvczwtliQQkq4GqhOH3tBvMOTGLTLykvPSSCyFP4cegHBa7V8OEkwTWPXHHZrKFDbJZ29q0AyJHekwA6dHDyZBxPzYz7bX6Rv8ylDumfyBVhZUDllNuALHKUI69g_BNWSBxr30rKffy7y-Grg2l4ZN5n7XrQP6sV24whVIdItzBzazoQL6kT9XQ-guS_hVuXR7rpacKcuWEFdgJhfv46kB5SiFxvRnBYd9zFSh1c_mqY7WVEFIB6zqttk_GGbBGiSS4HMnx8Idqb-e0e_8oTAfq5Vdg1LK7i3WJ2lv8iD2_I3JcHGHK6rVfJL3L61bMhnOxOrtpuxoNkGmSw9_cIRTC4soG2FN9S-U5W1ch6iwUIkqo7xhtTaU3m-8-0; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Thu, 09-Jan-2025 19:12:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Wed, 11-Jan-2017 19:12:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.74.8.137.1421089978174696; path=/; expires=Wed, 04-Jan-45 19:12:58 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D3122443348; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.74.8.64.1421089978163843; path=/; expires=Wed, 04-Jan-45 19:12:58 GMT
+                    [8] => AKDC=slc-b-origin-www-2.paypal.com; expires=Mon, 12-Jan-2015 19:42:58 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => -77yK7Eq1gv85Rw4hicVlGPJAJkpgliZRQQMuVvYEqowGcixabY6uyCyqPSw7qvuvczwtliQQkq4GqhOH3tBvMOTGLTLykvPSSCyFP4cegHBa7V8OEkwTWPXHHZrKFDbJZ29q0AyJHekwA6dHDyZBxPzYz7bX6Rv8ylDumfyBVhZUDllNuALHKUI69g_BNWSBxr30rKffy7y-Grg2l4ZN5n7XrQP6sV24whVIdItzBzazoQL6kT9XQ-guS_hVuXR7rpacKcuWEFdgJhfv46kB5SiFxvRnBYd9zFSh1c_mqY7WVEFIB6zqttk_GGbBGiSS4HMnx8Idqb-e0e_8oTAfq5Vdg1LK7i3WJ2lv8iD2_I3JcHGHK6rVfJL3L61bMhnOxOrtpuxoNkGmSw9_cIRTC4soG2FN9S-U5W1ch6iwUIkqo7xhtTaU3m-8-0
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736449978
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484161978
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.74.8.137.1421089978174696
+                    [expires] => 2367169978
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE6.WEB.1&silo_version=880&app=slingshot&TIME=3122443348
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.74.8.64.1421089978163843
+                    [expires] => 2367169978
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-b-origin-www-2.paypal.com
+                    [expires] => 1421091778
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-12-2015 @ 12:12:58 - Received valid response from PayPal
+01-12-2015 @ 21:07:19 - Generating payment form for order #59027. Notify URL: http://beatcycle.com/wc-api/WC_Gateway_Paypal/
+01-12-2015 @ 21:10:01 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-12-2015 @ 21:10:01 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [txn_type] => subscr_signup
+            [subscr_id] => I-8MG2FHGX916F
+            [last_name] => Zeldner
+            [residence_country] => US
+            [mc_currency] => USD
+            [item_name] => Monthly Subscription
+            [amount1] => 95.00
+            [business] => hilary@beatcycle.com
+            [amount3] => 160.00
+            [recurring] => 1
+            [verify_sign] => Aq3u7q.wU87.7rqENYvHI77AV-opABoxYDahWDQORv20a6OnYujiBUce
+            [payer_status] => verified
+            [payer_email] => jkzeldner@gmail.com
+            [first_name] => Jessica
+            [receiver_email] => hilary@beatcycle.com
+            [payer_id] => DZPR5CFKYG2JE
+            [invoice] => WC-59027
+            [reattempt] => 1
+            [subscr_date] => 20:09:43 Jan 12, 2015 PST
+            [custom] => a:2:{i:0;i:59027;i:1;s:22:"wc_order_54b499f70448c";}
+            [charset] => windows-1252
+            [notify_version] => 3.8
+            [period1] => 1 M
+            [mc_amount1] => 95.00
+            [period3] => 1 M
+            [mc_amount3] => 160.00
+            [ipn_track_id] => 15a237e97cd2f
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-12-2015 @ 21:10:02 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-b-origin-www-1.paypal.com
+            [date] => Tue, 13 Jan 2015 04:10:02 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=lT6nrN2DU9_clyOd900B_SwV86z9CF1Mr2XukKVg6Av2Uhmp8bL-O4lHo1LWQ3_Ze5iLZhckhdQmM-_Mm06ukffrtRgZ0qDRDtAwVvqLGWwZL1m9fYe5AmWgQZhK-SW4omysLh-r0GNb47nky_gdwemGINwozs3in4cC-VogGOG0_w14gNwc83Uli59QpqI9N-sU573wEjRj1TAHEKcItmVMW_ltZZpS5C2sKzpvKrRoPFbF_mnG4ymzdGHRZfHeUczZkaJKDlnr_EirTuOEfY50MpPsiRQkqv4m7We_5lrocmoTOXa1OUwUbpxFmfQSu2p7UTuiQo5JxvM4VYkAo5Ld3eV_MaR5wSPJ2ZL9ZX2wv7TS8GjSJbtYT8EArv5ER-Rv5tDz01uzH4MX8_yQbVxWGtXuhVOJqreuNwJPgtrXRk2TiZTw9kf9r9G; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Fri, 10-Jan-2025 04:10:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Thu, 12-Jan-2017 04:10:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.74.8.137.1421122201881556; path=/; expires=Thu, 05-Jan-45 04:10:01 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2577052756; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.74.8.38.1421122201870569; path=/; expires=Thu, 05-Jan-45 04:10:01 GMT
+                    [8] => AKDC=slc-b-origin-www-1.paypal.com; expires=Tue, 13-Jan-2015 04:40:02 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => lT6nrN2DU9_clyOd900B_SwV86z9CF1Mr2XukKVg6Av2Uhmp8bL-O4lHo1LWQ3_Ze5iLZhckhdQmM-_Mm06ukffrtRgZ0qDRDtAwVvqLGWwZL1m9fYe5AmWgQZhK-SW4omysLh-r0GNb47nky_gdwemGINwozs3in4cC-VogGOG0_w14gNwc83Uli59QpqI9N-sU573wEjRj1TAHEKcItmVMW_ltZZpS5C2sKzpvKrRoPFbF_mnG4ymzdGHRZfHeUczZkaJKDlnr_EirTuOEfY50MpPsiRQkqv4m7We_5lrocmoTOXa1OUwUbpxFmfQSu2p7UTuiQo5JxvM4VYkAo5Ld3eV_MaR5wSPJ2ZL9ZX2wv7TS8GjSJbtYT8EArv5ER-Rv5tDz01uzH4MX8_yQbVxWGtXuhVOJqreuNwJPgtrXRk2TiZTw9kf9r9G
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736482202
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484194202
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.74.8.137.1421122201881556
+                    [expires] => 2367202201
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE6.WEB.1&silo_version=880&app=slingshot&TIME=2577052756
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.74.8.38.1421122201870569
+                    [expires] => 2367202201
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-b-origin-www-1.paypal.com
+                    [expires] => 1421124002
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-12-2015 @ 21:10:02 - Received valid response from PayPal
+01-12-2015 @ 21:10:02 - Subscription Transaction Type: subscr_signup
+01-12-2015 @ 21:10:02 - Subscription transaction details: Array
+(
+    [txn_type] => subscr_signup
+    [subscr_id] => I-8MG2FHGX916F
+    [last_name] => Zeldner
+    [residence_country] => US
+    [mc_currency] => USD
+    [item_name] => Monthly Subscription
+    [amount1] => 95.00
+    [business] => hilary@beatcycle.com
+    [amount3] => 160.00
+    [recurring] => 1
+    [verify_sign] => Aq3u7q.wU87.7rqENYvHI77AV-opABoxYDahWDQORv20a6OnYujiBUce
+    [payer_status] => verified
+    [payer_email] => jkzeldner@gmail.com
+    [first_name] => Jessica
+    [receiver_email] => hilary@beatcycle.com
+    [payer_id] => DZPR5CFKYG2JE
+    [invoice] => WC-59027
+    [reattempt] => 1
+    [subscr_date] => 20:09:43 Jan 12, 2015 PST
+    [custom] => a:2:{i:0;i:59027;i:1;s:22:"wc_order_54b499f70448c";}
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [period1] => 1 M
+    [mc_amount1] => 95.00
+    [period3] => 1 M
+    [mc_amount3] => 160.00
+    [ipn_track_id] => 15a237e97cd2f
+)
+
+01-12-2015 @ 21:10:02 - IPN subscription sign up completed for order 59027
+01-12-2015 @ 21:10:03 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+01-12-2015 @ 21:10:03 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [transaction_subject] => Monthly Subscription
+            [payment_date] => 20:09:44 Jan 12, 2015 PST
+            [txn_type] => subscr_payment
+            [subscr_id] => I-8MG2FHGX916F
+            [last_name] => Zeldner
+            [residence_country] => US
+            [item_name] => Monthly Subscription
+            [payment_gross] => 95.00
+            [mc_currency] => USD
+            [business] => hilary@beatcycle.com
+            [payment_type] => instant
+            [protection_eligibility] => Ineligible
+            [verify_sign] => A1U5GYZ3.-y3bFAv6Lt-Eg1hlepHA5O628yZvIR7DbFNnwZEpMeNaCCa
+            [payer_status] => verified
+            [payer_email] => jkzeldner@gmail.com
+            [txn_id] => 4N464430X0406560E
+            [receiver_email] => hilary@beatcycle.com
+            [first_name] => Jessica
+            [invoice] => WC-59027
+            [payer_id] => DZPR5CFKYG2JE
+            [receiver_id] => 8ZLF9JXR7VYVC
+            [payment_status] => Completed
+            [payment_fee] => 3.06
+            [mc_fee] => 3.06
+            [mc_gross] => 95.00
+            [custom] => a:2:{i:0;i:59027;i:1;s:22:"wc_order_54b499f70448c";}
+            [charset] => windows-1252
+            [notify_version] => 3.8
+            [ipn_track_id] => 15a237e97cd2f
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.1.12
+)
+
+01-12-2015 @ 21:10:03 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-b-origin-www-2.paypal.com
+            [date] => Tue, 13 Jan 2015 04:10:03 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=9ow6a52Q-8h_j6op5d7dHPQEODnz-ryCEeaE6xSXZW0YspXkjOOcHKrYgENeomvw73jmfW6mRpDSe4XVMitrSe0S0HYgz_CE9C3zyCmTlqBBMkWJ36tpfy3RZ4irOjzem5RsBSJiiduANjTWWIjRVSEgYLpTDFCcJyQ89Kl5bFgBAZshMMyqTdji_L7EKxZawZyBkVY4SWoTKw6b-vZ8cyqsAJWTYVSuT5cGuC4Erm0cOWCK8MgyhwXP_DTs3FQoJ2q4-oH-P6UpM-I3HCzEoAKYvElbnoMQ_km_zyAh_QheR_B4EHDo09fWYLD0pQ4yrZ7lO-m1N-kDmwc70YrFT74TfK_sFm-hR9f-pf-7bJVDs62z4TKvylC6le1uYNLtuUFko9HTRSdtI_OAAafGiZdM4eTnhRHY9ekmm06pfyoFU-3aMDPkEuMmjvy; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Fri, 10-Jan-2025 04:10:03 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Thu, 12-Jan-2017 04:10:03 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.74.8.134.1421122203325284; path=/; expires=Thu, 05-Jan-45 04:10:03 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2610607188; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.74.8.70.1421122203313466; path=/; expires=Thu, 05-Jan-45 04:10:03 GMT
+                    [8] => AKDC=slc-b-origin-www-2.paypal.com; expires=Tue, 13-Jan-2015 04:40:03 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => 9ow6a52Q-8h_j6op5d7dHPQEODnz-ryCEeaE6xSXZW0YspXkjOOcHKrYgENeomvw73jmfW6mRpDSe4XVMitrSe0S0HYgz_CE9C3zyCmTlqBBMkWJ36tpfy3RZ4irOjzem5RsBSJiiduANjTWWIjRVSEgYLpTDFCcJyQ89Kl5bFgBAZshMMyqTdji_L7EKxZawZyBkVY4SWoTKw6b-vZ8cyqsAJWTYVSuT5cGuC4Erm0cOWCK8MgyhwXP_DTs3FQoJ2q4-oH-P6UpM-I3HCzEoAKYvElbnoMQ_km_zyAh_QheR_B4EHDo09fWYLD0pQ4yrZ7lO-m1N-kDmwc70YrFT74TfK_sFm-hR9f-pf-7bJVDs62z4TKvylC6le1uYNLtuUFko9HTRSdtI_OAAafGiZdM4eTnhRHY9ekmm06pfyoFU-3aMDPkEuMmjvy
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1736482203
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1484194203
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.74.8.134.1421122203325284
+                    [expires] => 2367202203
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE6.WEB.1&silo_version=880&app=slingshot&TIME=2610607188
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.74.8.70.1421122203313466
+                    [expires] => 2367202203
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-b-origin-www-2.paypal.com
+                    [expires] => 1421124003
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+01-12-2015 @ 21:10:03 - Received valid response from PayPal
+01-12-2015 @ 21:10:03 - Subscription Transaction Type: subscr_payment
+01-12-2015 @ 21:10:03 - Subscription transaction details: Array
+(
+    [transaction_subject] => Monthly Subscription
+    [payment_date] => 20:09:44 Jan 12, 2015 PST
+    [txn_type] => subscr_payment
+    [subscr_id] => I-8MG2FHGX916F
+    [last_name] => Zeldner
+    [residence_country] => US
+    [item_name] => Monthly Subscription
+    [payment_gross] => 95.00
+    [mc_currency] => USD
+    [business] => hilary@beatcycle.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => A1U5GYZ3.-y3bFAv6Lt-Eg1hlepHA5O628yZvIR7DbFNnwZEpMeNaCCa
+    [payer_status] => verified
+    [payer_email] => jkzeldner@gmail.com
+    [txn_id] => 4N464430X0406560E
+    [receiver_email] => hilary@beatcycle.com
+    [first_name] => Jessica
+    [invoice] => WC-59027
+    [payer_id] => DZPR5CFKYG2JE
+    [receiver_id] => 8ZLF9JXR7VYVC
+    [payment_status] => Completed
+    [payment_fee] => 3.06
+    [mc_fee] => 3.06
+    [mc_gross] => 95.00
+    [custom] => a:2:{i:0;i:59027;i:1;s:22:"wc_order_54b499f70448c";}
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => 15a237e97cd2f
+)
+
+01-12-2015 @ 21:10:03 - IPN subscription payment completed for order 59027
