@@ -1,7 +1,4 @@
-
 <?php
-
-
 if ( ! defined( 'WC_MAX_LINKED_VARIATIONS' ) ) {
     define( 'WC_MAX_LINKED_VARIATIONS', 399 );
 }
