@@ -82,7 +82,7 @@ define('WP_POST_REVISIONS', 3);
 
 
 
-define( 'WP_MEMORY_LIMIT', '600M' );
+define( 'WP_MEMORY_LIMIT', '700M' );
 define('FORCE_SSL_ADMIN', true);
 
 define('WP_HOME','http://beatcycle.com');
