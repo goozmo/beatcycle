@@ -166,7 +166,6 @@ class W3_Varnish {
     function _log($url, $msg) {
         if ($this->_debug) {
             $data = sprintf("[%s] [%s] %s\n", date('r'), $url, $msg);
-            $data = strtr($data, '<>', '..');
 
             $filename = w3_debug_log('varnish');
 

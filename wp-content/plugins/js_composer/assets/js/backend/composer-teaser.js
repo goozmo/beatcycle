@@ -367,4 +367,19 @@
                     } else if(block_data.name == 'text') {
                         if(block_data.mode === 'custom') {
                           this.custom_text = block_data.text;
- 
+                        }
+                    }
+                    this.createControl(block_data);
+                    this.$spinner.hide();
+
+                }
+            }, this);
+            this.$spinner.hide();
+        }
+    });
+    $(function(){
+        if ($('#vc_teaser').is('div')) {
+            vc.teaser = new VCTeaser();
+        }
+    });
+})(window.jQuery);
